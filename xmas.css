@@ -1,0 +1,24 @@
+body {
+  background-color: darkred;
+  color: lightyellow;
+  font-family: Consolas;
+}
+/* unvisited link */
+a:link {
+  color: green;
+}
+
+/* visited link */
+a:visited {
+  color: blueviolet;
+}
+
+/* mouse over link */
+a:hover {
+  color: deeppink;
+}
+
+/* selected link */
+a:active {
+  color: blueviolet;
+}
