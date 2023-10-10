@@ -1,6 +1,4 @@
-/* CSS is how you can add style to your website, such as colors, fonts, and positioning of your
-   HTML content. To learn how to do something, just try searching Google for questions like
-   "how to change link color." */
+/* cascading style engine */
 
 body {
   background-color: black;
@@ -9,12 +7,12 @@ body {
 }
 /* unvisited link */
 a:link {
-  color: blueviolet;
+  color: darkorchid;
 }
 
 /* visited link */
 a:visited {
-  color: blueviolet;
+  color: darkorchid;
 }
 
 /* mouse over link */
@@ -24,15 +22,15 @@ a:hover {
 
 /* selected link */
 a:active {
-  color: blueviolet;
+  color: darkorchid;
 }
 
 ::-moz-selection { /* Code for Firefox */
   color: white ;
-  background: blueviolet;
+  background: darkorchid;
 }
 
 ::selection {
   color: white;
-  background: blueviolet;
+  background: darkorchid;
 }
