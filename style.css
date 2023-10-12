@@ -1,4 +1,4 @@
-/* cascading style engine */
+/* barnacl's cascading style engine */
 
 body {
   background-color: black;
@@ -34,3 +34,10 @@ a:active {
   color: white;
   background: blueviolet;
 }
+@font-face {
+  font-family: 'IntelOne Mono';
+  src: url('https://github.com/intel/intel-one-mono/raw/main/fonts/woff2/IntelOneMono-Regular.woff2') format('woff2'),
+       url('https://github.com/intel/intel-one-mono/raw/main/fonts/woff/IntelOneMono-Regular.woff') format('woff'),
+       url('https://github.com/intel/intel-one-mono/raw/main/fonts/ttf/IntelOneMono-Regular.ttf') format('truetype');
+}
+
