@@ -7,12 +7,12 @@ body {
 }
 /* unvisited link */
 a:link {
-  color: blueviolet;
+  color: 9966FF;
 }
 
 /* visited link */
 a:visited {
-  color: blueviolet;
+  color: 9966FF;
 }
 
 /* mouse over link */
@@ -22,7 +22,7 @@ a:hover {
 
 /* selected link */
 a:active {
-  color: darkorchid;
+  color: deepblue;
 }
 
 ::-moz-selection { /* Code for Firefox */
