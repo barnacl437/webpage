@@ -7,12 +7,12 @@ body {
 }
 /* unvisited link */
 a:link {
-  color: 9966FF;
+  color: #9966FF;
 }
 
 /* visited link */
 a:visited {
-  color: 9966FF;
+  color: #9966FF;
 }
 
 /* mouse over link */
