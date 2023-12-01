@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>article:sample</title>
+    <!-- This HTML document is a sample page to create article faster. Usage? Copy this all to a blank document or
+    overwrite it. Then modify to their own.-->
+    <link href="/style.css" rel="stylesheet" type="text/css" media="all">
+  </head>
+  <body>
+  <p> <button onclick="goBack()">Go Back</button>
+
+<script>
+function goBack() {
+  window.history.back();
+}
+</script> \<a href="">home</a>\<a href="/tests-and-workons">test</a></p>
+  
+  
+  <h2>Embed PC emulator based on JavaScript! (with <a href="https://www.pcjs.org">PCjs</a> by <a href="https://github.com/jeffpar">Jeff Parsons</a>)</h2>
+  
+  <p> Yeah, you know. It always seems that I usually try very much things up. Today I just stumbled on PCjs, a web-based oldskool x86 PC emulator by Jeff Parsons.
+  I remember once using it like years ago, but recently a sudden recall took it back into my mind. So I think I'd try it again. This time I've known a lot of things more than me before, so I should understand well what's it doing. 
+  <br><br> OBTW, it allows me to embed the emulator here, so I guess you can try it right here. Otherwise you can go to their website. The machine emulated here is a Compaq Deskpro 386.</p>
+  
+  <div id="deskpro386"></div>
+<script src="/assets/pcjs/pcx86.js"></script>
+<script>embedPCx86("deskpro386","/assets/pcjs/machine.xml","components.xsl");</script>
+  
+  </body>
+</html>
