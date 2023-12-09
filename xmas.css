@@ -1,11 +1,11 @@
 body {
   background-color: darkred;
   color: lightyellow;
-  font-family: Consolas;
+  font-family: Intel One Mono;
 }
 /* unvisited link */
 a:link {
-  color: green;
+  color: lightgreen;
 }
 
 /* visited link */
@@ -21,4 +21,8 @@ a:hover {
 /* selected link */
 a:active {
   color: blueviolet;
+}
+
+@font-face {
+  font-family: 'Intel One Mono'; src: url('IntelOneMono-Regular.ttf');
 }
