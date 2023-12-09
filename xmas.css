@@ -10,7 +10,7 @@ a:link {
 
 /* visited link */
 a:visited {
-  color: blueviolet;
+  color: green;
 }
 
 /* mouse over link */
@@ -20,7 +20,7 @@ a:hover {
 
 /* selected link */
 a:active {
-  color: blueviolet;
+  color: green;
 }
 
 @font-face {
