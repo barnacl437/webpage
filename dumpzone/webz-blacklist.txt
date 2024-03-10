@@ -1,3 +1,5 @@
+[_________________________________________________________________________]
+
 ===My blacklist for potentially unwanted sites, compiled under .txt form===
 barnacl437, 2024
 
@@ -6,11 +8,14 @@ that I recommend for some playful and (hopefully) ethical DDoS attacks on them. 
 or (possibly) lotto, gambling sites which is illegal in some nations, and may cause huge loss to the
 player's side. This is logged in a txt file for simpler reading and data exporting for analysis.
 
-I started logging since 2024/3/9 @ 12:50am UTC. Will be updated frequently.
+I started logging since 2024/3/9 @ 12:50am UTC. Will be updated frequently. May not be chronically
+ordered.
+
 
 Recorded data form convention:
 [siteName] [protocol:isSecure] [dateTime:YYYY/MM/DD] [isUpInTheCurrentTime (up/down)] [misc_optional]
 (space is natural separation, colon is cluster separation, slash is partial separation, datas must be space-less)
+
 
 -----Start of list-----
 
