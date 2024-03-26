@@ -4,6 +4,7 @@ Edit: I may sometimes only focus on maintaining the GitHub site. At least so.~~ 
 
 ## About stuff 
 These webpages are made lightweight despite having many texts inside and (somewhat) fancy CSS looking. It can be healthy for weak connection, old browsers or crap memory amount, as long as it's hosted on concurrent accessible servers, such as no-SSL/HTTPS or HTTP-only connection.
+This is my personal webpage in which I will show a bit about me, my personal works, blog, experiments etc. I will use this page for my development of HTML skill as well as programming, knowledge sharing, sundry/misc. posting, jokes, stuff, all.
 I created this just to cure/satisfy my willing to create a new own webpage on my hand, using my skill to improve it overtime. I decided to keep everything simple for now.
 
 ## Usage
