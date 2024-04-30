@@ -13,8 +13,8 @@ ordered.
 
 
 Recorded data form convention:
-[siteName] [protocol:isSecure] [dateTime:YYYY/MM/DD] [isUpInTheCurrentTime (up/down)] [misc_optional]
-(space is natural separation, colon is cluster separation, slash is partial separation, datas must be space-less)
+[siteName] [protocol:isSecure] [dateTime:YYYY/MM/DD] [isUpInLastUpdatedTime (up/down)] [misc_optional]
+(space is natural separation, colon is cluster separation, slash/dash is partial separation, datas must be space-less)
 
 
 -----Start of list-----
@@ -22,5 +22,6 @@ Recorded data form convention:
 www.vnxoso41.net https:yes 2024/3/9 up
 gods8.com https:yes 2024/2/6 up isRedirect 
 rbfantoken.com https:yes 2023/1/1 down
+https://st1.syncorbitz.store/ https:yes 2024/4/30 up isddns:yes ddnsTargetDomain:https://telegram.org
 
 -----End of list-----
