@@ -13,7 +13,7 @@ ordered.
 
 
 Recorded data form convention:
-[siteName] [protocol:isSecure] [dateTime:YYYY/MM/DD] [isUpInLastUpdatedTime (up/down)] [misc_optional]
+[siteUrl] [protocol:isSecure] [dateTime:YYYY/MM/DD] [isUpInLastUpdatedTime (up/down)] [misc_optional]
 (space is natural separation, colon is cluster separation, slash/dash is partial separation, datas must be space-less)
 
 
@@ -22,6 +22,8 @@ Recorded data form convention:
 www.vnxoso41.net https:yes 2024/3/9 up
 gods8.com https:yes 2024/2/6 up isRedirect 
 rbfantoken.com https:yes 2023/1/1 down
-https://st1.syncorbitz.store/ https:yes 2024/4/30 up isddns:yes ddnsTargetDomain:https://telegram.org
+st1.syncorbitz.store https:yes 2024/4/30 up isddns:yes ddnsTargetDomain:https://telegram.org
+onlysexygirl.com/ID4896 https:yes 2024/5/13 up isddns:yes ddnsTargetDomain:https://t.me/hamster_kombat_bot?start=kentId5919509275
+
 
 -----End of list-----
