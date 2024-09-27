@@ -5,7 +5,7 @@ Edit: I may sometimes only focus on maintaining the GitHub site. At least so.~~ 
 ## About stuff 
 These webpages are made lightweight despite having many texts inside and (somewhat) fancy CSS looking. It can be healthy for weak connection, old browsers or crap memory amount, as long as it's hosted on concurrent accessible servers, such as no-SSL/HTTPS or HTTP-only connection.
 
-This is my personal webpage in which I will show a bit about me, my personal works, blog, experiments etc. I will use this page for my development of HTML skill as well as programming, knowledge sharing, sundry/misc. posting, jokes, stuff, all.
+This is my personal webpage in which I will show a bit about me, my personal works, blog, experiments etc. I will use this page as a self-learning gateway to web programming (mostly static html/css as a sole basis) as well as programming, knowledge sharing, sundry/misc. posting, jokes, stuff, all.
 
 Edit: my blogging activity is moved to a [Substack page](https://barnacl437.substack.com) in the same handle. Read my blogs there for good.
 
