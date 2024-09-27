@@ -7,6 +7,8 @@ These webpages are made lightweight despite having many texts inside and (somewh
 
 This is my personal webpage in which I will show a bit about me, my personal works, blog, experiments etc. I will use this page for my development of HTML skill as well as programming, knowledge sharing, sundry/misc. posting, jokes, stuff, all.
 
+Edit: my blogging activity is moved to a [Substack page](https://barnacl437.substack.com) in the same handle. Read my blogs there for good.
+
 I created this just to cure/satisfy my willing to create a new own webpage on my hand, using my skill to improve it overtime. I decided to keep everything simple for now.
 
 ## Usage
