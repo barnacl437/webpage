@@ -1,4 +1,4 @@
-/* barnacl's cascading style engine, version 1.5 */
+/* barnacl's cascading style engine, version 1.5.1 */
 
 body {
   background-color: black;
@@ -45,6 +45,6 @@ h1 {
 
 
  .navbar {
-text-align: justify;
+text-align: center;
 background-color:rgb(9, 5, 56);
 }
