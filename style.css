@@ -1,4 +1,8 @@
-/* barnacl's cascading style engine, version 1.5.1 */
+/* barnacl's cascading style engine, version 1.5b */
+
+meta{
+  version: 1.5b
+}
 
 body {
   background-color: black;
@@ -7,12 +11,12 @@ body {
 }
 /* unvisited link */
 a:link {
-  color: #9966FF;
+  color: #a49bfa;
 }
 
 /* visited link */
 a:visited {
-  color: #9966FF;
+  color: #77e0cade;
 }
 
 /* mouse over link */
@@ -46,5 +50,5 @@ h1 {
 
  .navbar {
 text-align: center;
-background-color:rgb(9, 5, 56);
+background-color:rgb(4, 6, 37);
 }
