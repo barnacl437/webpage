@@ -1,7 +1,7 @@
-/* barnacl's cascading style engine, version 1.5b */
+/* barnacl's cascading style engine */
 
 meta {
-  version: 1.5b
+  version: 1.5b-spook
 }
 
 body {
@@ -11,12 +11,12 @@ body {
 }
 /* unvisited link */
 a:link {
-  color: #a49bfa;
+  color:lightsalmon;
 }
 
 /* visited link */
 a:visited {
-  color: #77e0cade;
+  color: #da956dde;
 }
 
 /* mouse over link */
