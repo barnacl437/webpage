@@ -1,22 +1,22 @@
 /* barnacl's cascading style engine */
 
 meta {
-  version: 1.5b-spook
+  css-version: 1.5rc-1
 }
 
 body {
-  background-color: rgb(95, 38, 5);
+  background-color: rgb(1, 8, 20);
   color: rgb(255, 255, 255);
   font-family: 'Intel One Mono';
 }
 /* unvisited link */
 a:link {
-  color:lightsalmon;
+  color:rgb(167, 97, 247);
 }
 
 /* visited link */
 a:visited {
-  color: #da956dde;
+  color: #9b4df5de;
 }
 
 /* mouse over link */
@@ -47,8 +47,11 @@ h1 {
   font-family: 'Intel One Mono'; src: url('IntelOneMono-Regular.ttf');
 }
 
-
  .navbar {
 text-align: center;
 background-color:rgb(4, 6, 37);
+}
+
+.sheading {
+  color:rgb(164, 247, 219)
 }
