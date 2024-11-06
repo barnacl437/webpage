@@ -11,12 +11,12 @@ body {
 }
 /* unvisited link */
 a:link {
-  color:rgb(167, 97, 247);
+  color:rgb(158, 120, 247);
 }
 
 /* visited link */
 a:visited {
-  color: #9b4df5de;
+  color: #ae6df8de;
 }
 
 /* mouse over link */
@@ -54,4 +54,13 @@ background-color:rgb(4, 6, 37);
 
 .sheading {
   color:rgb(164, 247, 219)
+}
+
+.hltcyan {
+ color:cyan;
+ font: size 0.8em;
+}
+
+.hltgreenyellow {
+  color:greenyellow
 }
