@@ -1,7 +1,7 @@
 /* barnacl's cascading style engine */
 
 meta {
-  css-version: 1.5rc-1
+  css-version: 1.5rc-2
 }
 
 body {
@@ -56,6 +56,8 @@ background-color:rgb(4, 6, 37);
   color:rgb(164, 247, 219)
 }
 
+/* hlt[colour] are simply just colour highlighting classes to remove the need to define attribute again. */
+
 .hltcyan {
  color:cyan;
  font: size 0.8em;
@@ -63,4 +65,16 @@ background-color:rgb(4, 6, 37);
 
 .hltgreenyellow {
   color:greenyellow
+}
+
+/* how to use hover-to-spoiler: 
+use class="spoiler" for the main text, and class="hide" for text you want to hide/spoiler.  */
+
+.hide {
+  display: none;
+}
+
+.spoiler:hover + .hide {
+  display: block;
+  color:darkturquoise;
 }
