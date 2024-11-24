@@ -13,7 +13,18 @@
 <h1>archivedoc</h1>
 <h2>document resource for archive section.</h2>
 <hr>
-<h3 class="sheading" id="introduction">Introduction</h3>
+
+<div style="color:chartreuse;border-style:ridge;">
+    <p>Table of content</p>
+<a href="doc.htm#introduction">Introduction</a>   
+<br><a href="doc.htm#file-system">File system</a>
+<br> <a href="doc.htm#viewer">File viewer</a>
+<br> <a href="doc.htm#add-item">Adding an item</a>
+<br> <a href="doc.htm#lolz-stuff">Funny shenanigans</a>
+<hr>
+
+</div>
+<h2 class="sheading" id="introduction">Introduction</h2>
 <p>    The <span style="color:coral">archive</span> section is a place where things are stored like a storage, 
     making use of any host's disc space, and use html as a clientside read-only file viewer. In an unpredicted 
     future, however, this section could expand its purpose to not just function as a storage hub.<br>
@@ -22,23 +33,49 @@
 your own simple projects.<br>
 
 <br>There are better ways to make a file viewer on the web, but with this project, the author who made it ("the author")
-wants to try and demonstrate how good can a file viewer be made, following the <a href="https://en.wikipedia.org/wiki/KISS_principle">KISS</a> (keep it simple stupid) principle. Only a minimal amount of JS used, but not for any crucial function.<br>
+wants to try and demonstrate how good can a file viewer be made, following the <a href="https://en.wikipedia.org/wiki/KISS_principle">KISS</a> (keep it simple stupid) principle and some lil grain of brain self-computation power. Only a minimal amount of JS used, but not for any crucial function.<br>
 <br>This document is in progress and is subject to amend without prior notices. (cuz why lmao, i dont want to make a mailing list that would be sent to every 8 billion of the world population xdd)</p>
 
-<div style="color:chartreuse;border-style:ridge;">
-    <p>Table of content</p>
-<a href="doc.htm#file-system">File system</a> <br><br>
-</div>
+
 
 <h2 class="sheading" id="file-system">File system</h2>
     The "file system" is, de facto, a folder which contains files, for storage purpose. <br>
 <br>Currently, there is one such file system on this archive, <a href="/archive/fs1/index.bfsv0.htm">fs1</a>. <br>
 <br>
 <h2 class="sheading" id="viewer">File viewer</h2>
-<p>File viewer is a basic html page for viewing and indexing stored files. A conventional name for a file viewer is <span class="hltcyan">index.bfsv0.htm</span> in order to avoid coincidental use case for any other <span class="hltcyan"> index.htm/html</span> files. </p>
-<p>-</p>
+<p>File viewer is a basic html page for viewing and indexing stored files. A conventional name for a file viewer is <span class="hltcyan">index.bfsv0.htm</span> in order to avoid coincidental use case for any other <span class="hltcyan"> index.htm/html</span> files. 
+<br>A file viewer may consist of a file list, a header title and comment, and root link on top.
+<ul>
+    <li>a file list shows links to directly open files in browser. a folder link will just go to another directory with <span class="hltcyan">index.bfsv0.htm</span> file. </li>
+    <li>header title gives the name of current directory. the comment line(s) may show general tips, notes and info for each directory.</li>
+    <li>root link shows navigational link(s) to website's homepage and/or root of the archive fs.</li>
+</ul>
 
+You can refer to the <a href="/archive/sample.txt">sample page</a> source code to make it as a template to copypasta-create a new directory.
+Any extra items, additions, widgets or plug-ins can be added freely, as if it were free to do so. Because simply, you can. Yes.
+
+<h2 class="sheading" id="add-item">Adding an item</h2>
+This is no way much easier than just adding linked texts to your files using  <pre> < a href="ur file here.lmao"> ur file here< /a> </pre> (remove the space inbefore tag name btw). 
+You will have to do it manually every time you add a new item to the directory, as a mean of indexing. That's simply how it works, don't complain. Otherwise get a better, more worthy way to view and manage your files online. 
+
+<h2 class="sheading" id="lolz-stuff">Funny shenanigans</h2>
+<ul>
+    <li>You can apply a hidden element (a.k.a. hover-to-spoiler) to an item to add a pop-out note, 
+        extra info, or even prank viewers with Rick Astley's top hit. Use class="spoiler" for tags contain target text, and class="hide" for text you want to hide. 
+        This is possibly currently only work for one spoiler text per page. Refer to the css file <a href="/style.css">here</a> for an inside look. 
+    How this shit works: <br>
+     <br><video src="/archive/fs1/medias/spoiler-demo-2024-11-06_17-20-41.mp4" muted autoplay loop height="480"></video></li>
+    <br>
+    <li>... something's probably underway. Stay tuned for more.</li>
+</ul>
+
+</p>
+
+<div style="padding: 40px">
+
+</div>
 <hr>
-<p><span class="hltgreenyellow"> archivedoc</span> / last modified 6 nov 2024 / made with a very own doc template using plain html.</p>
+<hr>
+<p><span class="hltgreenyellow"> archivedoc</span> / last modified 25 nov 2024 / made with a very own doc template using plain html.</p>
 </body>
 </html>

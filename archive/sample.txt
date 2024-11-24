@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>archive:medias</title>
+    <title>archive:</title>
     <!-- This HTML document is a reference structure for web-based file browser interface. Usage? Copy all of this content to a blank document or
     overwrite it. Then modify to their own. Delete this once copied. -->
    <style> @import url("/style.css");</style>
@@ -20,15 +20,13 @@ function goBack() {
 <div class="viewer">  
 <h2> <!--[directory full list] !--> </h2>
 <p>
-  <!-- [desc go here] !--> 
+  <!-- [desc go here] !-->
 </p>
 <p><br> <a href="../index.bfsv0.htm">up one level</a>
     <br> filename <span style="color:deepskyblue"; class="filetype">filetype/extension</span> 
     <hr>
-   <div class="spoiler"> <br><abbr ><a href="Shrek_1.webm">Shrek_1</a></abbr> .webm <br> </div>
-    <span class="hide">yeah. dont you really expect i will bring shrek with fart quality to archive. to be frank i dont know why.</span>
-    <a href="spoiler-demo-2024-11-06_17-20-41.mp4">spoiler-demo-2024-11-06_17-20-41</a> .mp4
-</p>
+    <br><!-- item links go here, break line with br tag --!> <span style="color:deepskyblue"; class="filetype">.file</span> 
+<br> </p>
 </div>
 <div>
 <p>file browser version alpha, rev. 2, nov. 2024</p>
