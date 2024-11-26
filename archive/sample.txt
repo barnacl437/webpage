@@ -25,7 +25,7 @@ function goBack() {
 <p><br> <a href="../index.bfsv0.htm">up one level</a>
     <br> filename <span style="color:deepskyblue"; class="filetype">filetype/extension</span> 
     <hr>
-    <br><!-- item links go here, break line with br tag --!> <span style="color:deepskyblue"; class="filetype">.file</span> 
+    <br><!-- item links go here, break line with br tag --> <span style="color:deepskyblue"; class="filetype">.file</span> 
 <br> </p>
 </div>
 <div>
