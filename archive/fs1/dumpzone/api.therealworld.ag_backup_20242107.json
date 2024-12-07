@@ -1,0 +1,1 @@
+{"version":"0.5.5","features":{"files":{"enabled":true,"url":"https://files.therealworld.ag"},"proxy":{"enabled":true,"url":"https://proxy.therealworld.ag"},"cms":{"enabled":true,"url":"https://cms.therealworld.ag"},"captcha":{"enabled":false,"url":""}},"ws":"wss://api-ws.therealworld.ag"}

@@ -1,0 +1,13 @@
+{"localforecastapi":
+    {"version":"0.0.1", "myownweather":
+        {"hanoi":
+            {"thachthat":
+           {"tempcelsius":"18.5", 
+            "weather_desc":"Cloudy, sometimes overcast with relative chilling feel",
+            "feelin_like":"14", 
+            "allowfahranheitconv":"yes",
+            "_comment_string_content":  "This is a manually-updated json file used to record temperature in my local region. May not be frequently updated. You can use it as a demo for your projects."}
+           }
+        }
+    }
+}
