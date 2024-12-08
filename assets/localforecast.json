@@ -1,0 +1,14 @@
+{"localforecastapi":
+    {"friendlyname":"localforecastapi", "version":"0.0.1", "myownweather":
+        {"location":
+            {"vn_hanoi":
+           {"tempcelsius":"17", 
+            "weather_desc":"overcast",
+            "feelin_like":"14", 
+            "last_update":"2024-12-08 UTC7 16:19",
+            "update_count":"4",
+            "allowfahranheitconv":"yes"}
+           }
+        },
+    "_comment_string_content":  "This is a manually-updated json file used to record temperature in my local region. May not be frequently updated. You can use it as a demo for your projects."}
+}

@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+    @import url("/style.css");
+    
+    </style>
+    
+    <title>localforecast(tm)</title>
+</head>
+<body>
+    <center>
+<a href=""></a>
+<p><a href="/">home</a> </p>
+    <h2>localforecast</h2>
+    <p>just a json data reader sample. or a weather forecast demo if you wish to call.</p>
+
+    <p>forecast for hanoi, vietnam</p>
+    
+    <h3 style="font-size: 4ch"><span style="font-size: 6ch ;" id="temperature"></span>°C</h3>
+    
+    <p> <span id="weather-desc"></span></p>
+    
+    <p>feelin' like: <span id="feels-like"></span>°C</p>
+
+    <p>Last updated on: <span id="last-update"></span>, total time updated:<span id="update-count"></span></p>
+
+    <p><span id="api-name"></span> <span id="api-ver"></span>, see the json api <a href="/assets/localforecast.json">here</a></p>
+</center>
+
+
+    <script>
+        // json hoarder
+        fetch("/assets/localforecast.json") // data fetchyn'
+            .then(response => response.json())
+            .then(data => {
+                const temperature = data.localforecastapi.myownweather.location.vn_hanoi.tempcelsius;
+                const weatherDesc = data.localforecastapi.myownweather.location.vn_hanoi.weather_desc;
+                const feelinLike = data.localforecastapi.myownweather.location.vn_hanoi.feelin_like;
+                const lastUpdate = data.localforecastapi.myownweather.location.vn_hanoi.last_update;
+                const apiName = data.localforecastapi.friendlyname
+                const apiVer = data.localforecastapi.version
+                const updateCount = data.localforecastapi.myownweather.location.vn_hanoi.update_count
+
+                // show up the thingy
+                document.getElementById('temperature').textContent = temperature;
+                document.getElementById('weather-desc').textContent = weatherDesc;
+                document.getElementById('feels-like').textContent = feelinLike;
+                document.getElementById('last-update').textContent = lastUpdate;
+                document.getElementById('api-name').textContent = apiName
+                document.getElementById('api-ver').textContent = apiVer
+                document.getElementById('update-count').textContent = updateCount
+            });
+    </script>
+
+</body>
+</html>
