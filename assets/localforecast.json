@@ -3,7 +3,7 @@
         {"location":
             {"vn_hanoi":
            {"tempcelsius":"14", 
-            "weather_desc":"overcast",
+            "weather_desc":"cloudy to fair",
             "feelin_like":"12", 
             "last_update":"2024-12-09 UTC7 01:47",
             "update_count":"5",
