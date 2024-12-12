@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            @import url(/style.css);
+        </style>
+        <title>OpenMeteo forecast: Hanoi</title>
+    </head>
+    <body>
+        
+        <center>
+        <p><a href="/">home</a> </p>
+   <h2>openmeteo api grabber</h2>
+    <div>
+        <p>forecast for hanoi, vietnam</p>
+        <p> latitude <span id="lat"></span> longitude <span id="long"></span></p>
+        <p><span id="time"></span> UTC<span id="timezone"></span></p>
+        <p><span style="font-size: 12ch;" id="temp"></span>
+            <span id="tempunit" style="font-size:4ch"></span></p> <!--temp big font ish-->
+        <p>precip: <span id="precip"></span>mm </p>
+        <p>dew point: <span id="dew-point-hr"></span> </p>
+        <p>elevation <span id="elev"></span> </p>
+        <p> generated in <span id="gentime"></span></p>
+
+    </div>
+    </center>
+    <script>
+        // json hoarder
+        fetch("https://api.open-meteo.com/v1/forecast?latitude=21.0245&longitude=105.8412&current=temperature_2m,is_day,precipitation,weather_code&minutely_15=dew_point_2m&hourly=dew_point_2m,precipitation,is_day,sunshine_duration&timezone=Asia%2FBangkok") //data fetchyn'
+        .then(response => response.json())
+        .then(data => {
+            const lat = data.latitude;
+            const long = data.longitude;
+            const time = data.current.time;
+            const timezone = data.timezone_abbreviation;
+            const temp2m = data.current.temperature_2m;
+            const tempUnit = data.current_units.temperature_2m;
+            const isDay = data.current.is_day;
+            const precip = data.current.precipitation;
+            const dewPtHr = data.hourly.dew_point_2m[0];
+
+            
+            // show up the thingy
+            document.getElementById('lat').textContent = lat;
+            document.getElementById('long').textContent = long;
+            document.getElementById('time').textContent = time;
+            document.getElementById('timezone').textContent = timezone;
+            document.getElementById('temp').textContent = temp2m;
+            document.getElementById('tempunit').textContent = tempUnit;
+            document.getElementById('isday').textContent = isDay;
+            document.getElementById('precipitation').textContent = precip;
+            document.getElementById('dew-point-hr').textContent = dewPtHr;
+        
+
+        })
+    </script>
+
+</body>
+</html>
