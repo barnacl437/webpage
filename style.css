@@ -1,13 +1,16 @@
 /* barnacl's cascading style engine */
+/* reminder: never forget ; at the end of lines!!! */
+/* this is a comprehensive styling sheet for barnacl437's webpage. May include messy and testing codes. */
 
 meta {
-  css-version: 1.5rc-2
+  css-name: barncss;
+  css-version: 1.5-stable;
 }
 
 body {
   background-color: rgb(1, 8, 20);
   color: rgb(255, 255, 255);
-  font-family: 'Intel One Mono';
+  font-family: 'Intel One Mono', monospace;
 }
 /* unvisited link */
 a:link {
@@ -17,11 +20,15 @@ a:link {
 /* visited link */
 a:visited {
   color: #ae6df8de;
+  text-decoration: overline;
 }
 
 /* mouse over link */
 a:hover {
   color: rgb(20, 255, 243);
+  font-weight: 800;
+  font-style: italic;
+  font-size: 1.2em;
 }
 
 /* selected link */
@@ -47,6 +54,7 @@ h1 {
   font-family: 'Intel One Mono'; src: url('IntelOneMono-Regular.ttf');
 }
 
+/* navigation bar colouring */
  .navbar {
 text-align: center;
 background-color:rgb(4, 6, 37);
