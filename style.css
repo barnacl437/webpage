@@ -4,13 +4,16 @@
 
 meta {
   css-name: barncss;
-  css-version: 1.5-stable;
+  css-version: 1.5-stable-1;
 }
 
 body {
   background-color: rgb(1, 8, 20);
   color: rgb(255, 255, 255);
   font-family: 'Intel One Mono', monospace;
+  width:69%;
+  text-align:justify;
+  margin: auto;
 }
 /* unvisited link */
 a:link {
@@ -29,6 +32,11 @@ a:hover {
   font-weight: 800;
   font-style: italic;
   font-size: 1.2em;
+}
+
+mark {
+  background-color:rgb(24, 200, 212);
+  color:rgb(0, 11, 20);
 }
 
 /* selected link */
