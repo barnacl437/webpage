@@ -4,17 +4,31 @@
 
 meta {
   css-name: barncss;
-  css-version: 1.5-stable-1;
+  css-version: 1.6b1;
 }
 
-body {
+@media (min-width: 800px) {
+  body {
   background-color: rgb(1, 8, 20);
   color: rgb(255, 255, 255);
   font-family: 'Intel One Mono', monospace;
   width:69%;
   text-align:justify;
   margin: auto;
+  }
 }
+
+@media (max-width: 799px) {
+  body {
+    background-color: rgb(1, 8, 20);
+    color: rgb(255, 255, 255);
+    font-family: 'Intel One Mono', monospace;
+    width:96%;
+    text-align:justify;
+    margin: auto;
+    }
+  }
+
 /* unvisited link */
 a:link {
   color:rgb(158, 120, 247);
