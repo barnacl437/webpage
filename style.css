@@ -28,10 +28,9 @@ a:visited {
 
 /* mouse over link */
 a:hover {
-  color: rgb(20, 255, 243);
-  font-weight: 800;
-  font-style: italic;
-  font-size: 1.2em;
+  color: rgb(0, 16, 19);
+  font-weight: 600;
+  background-color: rgb(23, 212, 245);
 }
 
 mark {
