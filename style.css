@@ -48,8 +48,8 @@ a:hover {
 }
 
 mark {
-  background-color:rgb(24, 200, 212);
-  color:rgb(0, 11, 20);
+  background-color:rgb(8, 69, 71);
+  color:rgb(255, 255, 255);
 }
 
 /* selected link */
@@ -60,6 +60,11 @@ a:active {
 ::-moz-selection { /* Code for Firefox */
   color: white ;
   background: aqua;
+}
+
+.running-text {
+  background-color: rgb(37, 75, 3);
+  color:rgb(236, 225, 2);
 }
 
 ::selection {
@@ -79,6 +84,10 @@ h1 {
  .navbar {
 text-align: center;
 background-color:rgb(4, 6, 37);
+}
+
+.bgcyan {
+  
 }
 
 .sheading {
