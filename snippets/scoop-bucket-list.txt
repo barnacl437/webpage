@@ -1,7 +1,7 @@
-Copy all the strings below the line then paste it into your command prompt. May add more l8r.
+:Copy all the strings below the line then paste it into your command prompt. May add more l8r.
 
 
------------------------------------------------------------------------------------------------
+:-----------------------------------------------------------------------------------------------
 scoop bucket add extras
 scoop bucket add dorado https://github.com/chawyehsu/dorado
 scoop bucket add nerd-fonts
@@ -11,5 +11,5 @@ scoop bucket add versions
 scoop bucket add Nirsoft https://github.com/ScoopInstaller/Nirsoft
 scoop bucket add scoop-galaxy-integrations https://github.com/borger/scoop-galaxy-integrations
 scoop bucket add GenericBucket https://github.com/shovel-org/GenericBucket
-scoop bucket add DEV-tools https://github.com/anderlli0053/DEV-tools
 scoop bucket add wsl https://github.com/KNOXDEV/wsl
+scoop bucket add DEV-tools https://github.com/anderlli0053/DEV-tools
