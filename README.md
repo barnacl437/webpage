@@ -11,6 +11,8 @@ Edit: my blogging activity is moved to a [Substack page](https://barnacl437.subs
 
 I created this just to cure/satisfy my willing to create a new own webpage on my hand, using my skill to improve it overtime. I decided to keep everything simple for now.
 
+bleh: i decided to publish my site on [vercel](https://vercel.com) which has faster build time over github pages. Current github.io domain will redirect to my custom domain (proudly powered by [is-a.dev](https://is-a.dev)) automatically.
+
 ## Usage
 If you are not literated in basic HTML coding, you can, yes, copy the code then do anything you want. Find some weird things in there? Nevermind. Otherwise just reading. This is my personal webpage. Or use it as reading a personal blog. idk do wtf u want.
 
