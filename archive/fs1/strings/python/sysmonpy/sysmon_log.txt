@@ -1,0 +1,3796 @@
+----------------------------------------------------------------------
+2025-03-20 01:02:31
+hardware monitoring:
+		--  CPU usage: 4.6%
+          --  mem usage: 84.5%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.22 GB
+network activity
+          --  bytes sent/received: 3451/3596
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.71/59.92GB
+
+----------------------------------------------------------------------
+2025-03-20 01:02:41
+hardware monitoring:
+		--  CPU usage: 2.3%
+          --  mem usage: 86.5%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.06 GB
+network activity
+          --  bytes sent/received: 3660/4023
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.71/59.92GB
+
+----------------------------------------------------------------------
+2025-03-20 01:02:51
+hardware monitoring:
+		--  CPU usage: 2.7%
+          --  mem usage: 86.5%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.06 GB
+network activity
+          --  bytes sent/received: 3396/3453
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.71/59.92GB
+
+----------------------------------------------------------------------
+2025-03-20 01:03:01
+hardware monitoring:
+		--  CPU usage: 4.3%
+          --  mem usage: 86.9%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.03 GB
+network activity
+          --  bytes sent/received: 54/139
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.71/59.92GB
+
+----------------------------------------------------------------------
+2025-03-20 01:03:11
+hardware monitoring:
+		--  CPU usage: 8.8%
+          --  mem usage: 86.5%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.07 GB
+network activity
+          --  bytes sent/received: 4666/44301
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.71/59.91GB
+
+----------------------------------------------------------------------
+2025-03-20 01:03:21
+hardware monitoring:
+		--  CPU usage: 54.9%
+          --  mem usage: 88.9%
+          --  total RAM: 7.87 GB
+          --  available RAM: 0.87 GB
+network activity
+          --  bytes sent/received: 8663/14405
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.71/59.91GB
+
+----------------------------------------------------------------------
+2025-03-20 01:03:31
+hardware monitoring:
+		--  CPU usage: 35.1%
+          --  mem usage: 90.3%
+          --  total RAM: 7.87 GB
+          --  available RAM: 0.77 GB
+network activity
+          --  bytes sent/received: 6819/33991
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.71/59.91GB
+
+----------------------------------------------------------------------
+2025-03-20 01:03:41
+hardware monitoring:
+		--  CPU usage: 16.8%
+          --  mem usage: 89.0%
+          --  total RAM: 7.87 GB
+          --  available RAM: 0.86 GB
+network activity
+          --  bytes sent/received: 12304/1711205
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.71/59.91GB
+
+----------------------------------------------------------------------
+2025-03-20 01:03:51
+hardware monitoring:
+		--  CPU usage: 7.4%
+          --  mem usage: 86.4%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.07 GB
+network activity
+          --  bytes sent/received: 6642/1051531
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.71/59.91GB
+
+----------------------------------------------------------------------
+2025-03-20 01:04:01
+hardware monitoring:
+		--  CPU usage: 5.8%
+          --  mem usage: 86.3%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.07 GB
+network activity
+          --  bytes sent/received: 15625/2538364
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.71/59.91GB
+
+----------------------------------------------------------------------
+2025-03-20 01:04:11
+hardware monitoring:
+		--  CPU usage: 5.1%
+          --  mem usage: 85.8%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.11 GB
+network activity
+          --  bytes sent/received: 3450/3923
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.71/59.91GB
+
+----------------------------------------------------------------------
+2025-03-20 01:04:21
+hardware monitoring:
+		--  CPU usage: 68.3%
+          --  mem usage: 87.6%
+          --  total RAM: 7.87 GB
+          --  available RAM: 0.97 GB
+network activity
+          --  bytes sent/received: 5803/4151
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.71/59.91GB
+
+----------------------------------------------------------------------
+2025-03-20 01:04:31
+hardware monitoring:
+		--  CPU usage: 9.0%
+          --  mem usage: 86.5%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.07 GB
+network activity
+          --  bytes sent/received: 3450/3924
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.71/59.91GB
+
+----------------------------------------------------------------------
+2025-03-20 01:04:41
+hardware monitoring:
+		--  CPU usage: 16.5%
+          --  mem usage: 85.5%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.14 GB
+network activity
+          --  bytes sent/received: 324/37555
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.71/59.91GB
+
+----------------------------------------------------------------------
+2025-03-20 01:04:52
+hardware monitoring:
+		--  CPU usage: 11.9%
+          --  mem usage: 85.2%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.16 GB
+network activity
+          --  bytes sent/received: 3234/2902
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.71/59.91GB
+
+----------------------------------------------------------------------
+2025-03-20 01:05:02
+hardware monitoring:
+		--  CPU usage: 85.2%
+          --  mem usage: 87.3%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.00 GB
+network activity
+          --  bytes sent/received: 33339/794046
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.71/59.91GB
+
+----------------------------------------------------------------------
+2025-03-20 01:05:12
+hardware monitoring:
+		--  CPU usage: 19.5%
+          --  mem usage: 86.0%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.10 GB
+network activity
+          --  bytes sent/received: 2030/227729
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.71/59.91GB
+
+----------------------------------------------------------------------
+2025-03-20 01:05:22
+hardware monitoring:
+		--  CPU usage: 14.0%
+          --  mem usage: 85.3%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.16 GB
+network activity
+          --  bytes sent/received: 8451/18916
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.71/59.91GB
+
+----------------------------------------------------------------------
+2025-03-20 01:05:32
+hardware monitoring:
+		--  CPU usage: 2.7%
+          --  mem usage: 85.5%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.14 GB
+network activity
+          --  bytes sent/received: 3597/3751
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.71/59.91GB
+
+----------------------------------------------------------------------
+2025-03-20 01:05:42
+hardware monitoring:
+		--  CPU usage: 12.9%
+          --  mem usage: 85.8%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.12 GB
+network activity
+          --  bytes sent/received: 3342/5443
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.71/59.91GB
+
+----------------------------------------------------------------------
+2025-03-20 01:05:52
+hardware monitoring:
+		--  CPU usage: 5.5%
+          --  mem usage: 85.3%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.15 GB
+network activity
+          --  bytes sent/received: 0/0
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.71/59.91GB
+
+----------------------------------------------------------------------
+2025-03-20 01:06:02
+hardware monitoring:
+		--  CPU usage: 7.8%
+          --  mem usage: 85.1%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.18 GB
+network activity
+          --  bytes sent/received: 3450/3721
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.71/59.91GB
+
+----------------------------------------------------------------------
+2025-03-20 01:06:12
+hardware monitoring:
+		--  CPU usage: 9.0%
+          --  mem usage: 85.0%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.18 GB
+network activity
+          --  bytes sent/received: 5707/6385
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.71/59.91GB
+
+----------------------------------------------------------------------
+2025-03-20 01:06:22
+hardware monitoring:
+		--  CPU usage: 9.8%
+          --  mem usage: 85.2%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.16 GB
+network activity
+          --  bytes sent/received: 3504/4147
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.71/59.91GB
+
+----------------------------------------------------------------------
+2025-03-20 01:06:32
+hardware monitoring:
+		--  CPU usage: 12.9%
+          --  mem usage: 88.3%
+          --  total RAM: 7.87 GB
+          --  available RAM: 0.92 GB
+network activity
+          --  bytes sent/received: 18648/181679
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.72/59.90GB
+
+----------------------------------------------------------------------
+2025-03-20 01:06:42
+hardware monitoring:
+		--  CPU usage: 12.9%
+          --  mem usage: 87.2%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.00 GB
+network activity
+          --  bytes sent/received: 164/196
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.72/59.90GB
+
+----------------------------------------------------------------------
+2025-03-20 01:06:52
+hardware monitoring:
+		--  CPU usage: 3.1%
+          --  mem usage: 88.2%
+          --  total RAM: 7.87 GB
+          --  available RAM: 0.92 GB
+network activity
+          --  bytes sent/received: 3349/3226
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.73/59.89GB
+
+----------------------------------------------------------------------
+2025-03-20 01:07:02
+hardware monitoring:
+		--  CPU usage: 12.5%
+          --  mem usage: 88.0%
+          --  total RAM: 7.87 GB
+          --  available RAM: 0.94 GB
+network activity
+          --  bytes sent/received: 12628/6548
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.73/59.89GB
+
+----------------------------------------------------------------------
+2025-03-20 01:07:12
+hardware monitoring:
+		--  CPU usage: 10.1%
+          --  mem usage: 87.3%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.00 GB
+network activity
+          --  bytes sent/received: 5351/4478
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.73/59.89GB
+
+----------------------------------------------------------------------
+2025-03-20 01:07:22
+hardware monitoring:
+		--  CPU usage: 13.7%
+          --  mem usage: 87.8%
+          --  total RAM: 7.87 GB
+          --  available RAM: 0.96 GB
+network activity
+          --  bytes sent/received: 8283/68134
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.73/59.89GB
+
+----------------------------------------------------------------------
+2025-03-20 01:07:32
+hardware monitoring:
+		--  CPU usage: 11.3%
+          --  mem usage: 89.9%
+          --  total RAM: 7.87 GB
+          --  available RAM: 0.80 GB
+network activity
+          --  bytes sent/received: 108/471
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.73/59.89GB
+
+----------------------------------------------------------------------
+2025-03-20 01:07:43
+hardware monitoring:
+		--  CPU usage: 19.8%
+          --  mem usage: 90.7%
+          --  total RAM: 7.87 GB
+          --  available RAM: 0.73 GB
+network activity
+          --  bytes sent/received: 9791/6814
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.73/59.89GB
+
+----------------------------------------------------------------------
+2025-03-20 01:07:53
+hardware monitoring:
+		--  CPU usage: 23.6%
+          --  mem usage: 91.7%
+          --  total RAM: 7.87 GB
+          --  available RAM: 0.65 GB
+network activity
+          --  bytes sent/received: 2548/7746
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.74/59.89GB
+
+----------------------------------------------------------------------
+2025-03-20 01:08:03
+hardware monitoring:
+		--  CPU usage: 9.7%
+          --  mem usage: 91.7%
+          --  total RAM: 7.87 GB
+          --  available RAM: 0.65 GB
+network activity
+          --  bytes sent/received: 27609/55954
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.74/59.89GB
+
+----------------------------------------------------------------------
+2025-03-20 01:08:13
+hardware monitoring:
+		--  CPU usage: 9.4%
+          --  mem usage: 92.1%
+          --  total RAM: 7.87 GB
+          --  available RAM: 0.62 GB
+network activity
+          --  bytes sent/received: 4419/4839
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.74/59.89GB
+
+----------------------------------------------------------------------
+2025-03-20 01:08:23
+hardware monitoring:
+		--  CPU usage: 7.0%
+          --  mem usage: 91.6%
+          --  total RAM: 7.87 GB
+          --  available RAM: 0.66 GB
+network activity
+          --  bytes sent/received: 8480/4966
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.74/59.89GB
+
+----------------------------------------------------------------------
+2025-03-20 01:08:33
+hardware monitoring:
+		--  CPU usage: 6.2%
+          --  mem usage: 91.9%
+          --  total RAM: 7.87 GB
+          --  available RAM: 0.64 GB
+network activity
+          --  bytes sent/received: 3489/3937
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.74/59.89GB
+
+----------------------------------------------------------------------
+2025-03-20 01:08:43
+hardware monitoring:
+		--  CPU usage: 9.0%
+          --  mem usage: 91.8%
+          --  total RAM: 7.87 GB
+          --  available RAM: 0.65 GB
+network activity
+          --  bytes sent/received: 12183/7396
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.74/59.89GB
+
+----------------------------------------------------------------------
+2025-03-20 01:08:53
+hardware monitoring:
+		--  CPU usage: 9.3%
+          --  mem usage: 87.0%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.03 GB
+network activity
+          --  bytes sent/received: 147/147
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.74/59.89GB
+
+----------------------------------------------------------------------
+2025-03-20 01:09:03
+hardware monitoring:
+		--  CPU usage: 7.0%
+          --  mem usage: 88.6%
+          --  total RAM: 7.87 GB
+          --  available RAM: 0.90 GB
+network activity
+          --  bytes sent/received: 10845/7642
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.74/59.89GB
+
+----------------------------------------------------------------------
+2025-03-20 01:09:13
+hardware monitoring:
+		--  CPU usage: 8.9%
+          --  mem usage: 88.6%
+          --  total RAM: 7.87 GB
+          --  available RAM: 0.90 GB
+network activity
+          --  bytes sent/received: 3807/6860
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.74/59.89GB
+
+----------------------------------------------------------------------
+2025-03-20 01:09:23
+hardware monitoring:
+		--  CPU usage: 5.1%
+          --  mem usage: 88.8%
+          --  total RAM: 7.87 GB
+          --  available RAM: 0.88 GB
+network activity
+          --  bytes sent/received: 11340/6323
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.74/59.89GB
+
+----------------------------------------------------------------------
+2025-03-20 01:09:33
+hardware monitoring:
+		--  CPU usage: 4.3%
+          --  mem usage: 87.9%
+          --  total RAM: 7.87 GB
+          --  available RAM: 0.95 GB
+network activity
+          --  bytes sent/received: 163/2843
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.74/59.89GB
+
+----------------------------------------------------------------------
+2025-03-20 01:09:43
+hardware monitoring:
+		--  CPU usage: 6.2%
+          --  mem usage: 88.0%
+          --  total RAM: 7.87 GB
+          --  available RAM: 0.94 GB
+network activity
+          --  bytes sent/received: 10740/6099
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.74/59.89GB
+
+----------------------------------------------------------------------
+2025-03-20 01:09:53
+hardware monitoring:
+		--  CPU usage: 5.9%
+          --  mem usage: 87.5%
+          --  total RAM: 7.87 GB
+          --  available RAM: 0.99 GB
+network activity
+          --  bytes sent/received: 3775/13016
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.74/59.89GB
+
+----------------------------------------------------------------------
+2025-03-20 01:10:03
+hardware monitoring:
+		--  CPU usage: 7.4%
+          --  mem usage: 86.9%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.03 GB
+network activity
+          --  bytes sent/received: 7730/8779
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.74/59.89GB
+
+----------------------------------------------------------------------
+2025-03-20 01:10:13
+hardware monitoring:
+		--  CPU usage: 8.6%
+          --  mem usage: 87.1%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.02 GB
+network activity
+          --  bytes sent/received: 3107/10144
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.74/59.89GB
+
+----------------------------------------------------------------------
+2025-03-20 01:10:23
+hardware monitoring:
+		--  CPU usage: 7.0%
+          --  mem usage: 87.2%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.01 GB
+network activity
+          --  bytes sent/received: 10592/9587
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.74/59.89GB
+
+----------------------------------------------------------------------
+2025-03-20 01:10:33
+hardware monitoring:
+		--  CPU usage: 12.5%
+          --  mem usage: 87.3%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.00 GB
+network activity
+          --  bytes sent/received: 336/6769
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.74/59.89GB
+
+----------------------------------------------------------------------
+2025-03-20 01:10:43
+hardware monitoring:
+		--  CPU usage: 5.1%
+          --  mem usage: 87.3%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.00 GB
+network activity
+          --  bytes sent/received: 3657/11321
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.74/59.89GB
+
+----------------------------------------------------------------------
+2025-03-20 01:10:53
+hardware monitoring:
+		--  CPU usage: 7.0%
+          --  mem usage: 87.5%
+          --  total RAM: 7.87 GB
+          --  available RAM: 0.98 GB
+network activity
+          --  bytes sent/received: 4023/14286
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.74/59.89GB
+
+----------------------------------------------------------------------
+2025-03-20 01:11:03
+hardware monitoring:
+		--  CPU usage: 6.2%
+          --  mem usage: 87.1%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.02 GB
+network activity
+          --  bytes sent/received: 3786/10234
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.74/59.89GB
+
+----------------------------------------------------------------------
+2025-03-20 01:11:13
+hardware monitoring:
+		--  CPU usage: 4.3%
+          --  mem usage: 87.3%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.00 GB
+network activity
+          --  bytes sent/received: 3613/10475
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.74/59.89GB
+
+----------------------------------------------------------------------
+2025-03-20 01:11:23
+hardware monitoring:
+		--  CPU usage: 14.4%
+          --  mem usage: 87.5%
+          --  total RAM: 7.87 GB
+          --  available RAM: 0.98 GB
+network activity
+          --  bytes sent/received: 3723/11224
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.74/59.89GB
+
+----------------------------------------------------------------------
+2025-03-20 01:11:33
+hardware monitoring:
+		--  CPU usage: 6.2%
+          --  mem usage: 87.9%
+          --  total RAM: 7.87 GB
+          --  available RAM: 0.95 GB
+network activity
+          --  bytes sent/received: 1068/8794
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.74/59.88GB
+
+----------------------------------------------------------------------
+2025-03-20 01:11:43
+hardware monitoring:
+		--  CPU usage: 8.9%
+          --  mem usage: 88.2%
+          --  total RAM: 7.87 GB
+          --  available RAM: 0.93 GB
+network activity
+          --  bytes sent/received: 3804/9811
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.74/59.88GB
+
+----------------------------------------------------------------------
+2025-03-20 01:11:53
+hardware monitoring:
+		--  CPU usage: 8.9%
+          --  mem usage: 88.2%
+          --  total RAM: 7.87 GB
+          --  available RAM: 0.93 GB
+network activity
+          --  bytes sent/received: 3783/9932
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.74/59.88GB
+
+----------------------------------------------------------------------
+2025-03-20 01:12:04
+hardware monitoring:
+		--  CPU usage: 7.0%
+          --  mem usage: 87.6%
+          --  total RAM: 7.87 GB
+          --  available RAM: 0.97 GB
+network activity
+          --  bytes sent/received: 2692/7348
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.74/59.88GB
+
+----------------------------------------------------------------------
+2025-03-20 01:12:14
+hardware monitoring:
+		--  CPU usage: 5.9%
+          --  mem usage: 87.6%
+          --  total RAM: 7.87 GB
+          --  available RAM: 0.98 GB
+network activity
+          --  bytes sent/received: 4510/11124
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.74/59.88GB
+
+----------------------------------------------------------------------
+2025-03-20 01:12:24
+hardware monitoring:
+		--  CPU usage: 8.2%
+          --  mem usage: 88.9%
+          --  total RAM: 7.87 GB
+          --  available RAM: 0.87 GB
+network activity
+          --  bytes sent/received: 54/6168
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.74/59.88GB
+
+----------------------------------------------------------------------
+2025-03-20 01:12:34
+hardware monitoring:
+		--  CPU usage: 9.7%
+          --  mem usage: 88.5%
+          --  total RAM: 7.87 GB
+          --  available RAM: 0.91 GB
+network activity
+          --  bytes sent/received: 3932/10050
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.74/59.88GB
+
+----------------------------------------------------------------------
+2025-03-20 01:12:44
+hardware monitoring:
+		--  CPU usage: 6.6%
+          --  mem usage: 89.0%
+          --  total RAM: 7.87 GB
+          --  available RAM: 0.86 GB
+network activity
+          --  bytes sent/received: 3601/10098
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.74/59.88GB
+
+----------------------------------------------------------------------
+2025-03-20 01:12:54
+hardware monitoring:
+		--  CPU usage: 8.2%
+          --  mem usage: 89.7%
+          --  total RAM: 7.87 GB
+          --  available RAM: 0.81 GB
+network activity
+          --  bytes sent/received: 163/6182
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.74/59.88GB
+
+----------------------------------------------------------------------
+2025-03-20 01:13:04
+hardware monitoring:
+		--  CPU usage: 10.9%
+          --  mem usage: 88.9%
+          --  total RAM: 7.87 GB
+          --  available RAM: 0.87 GB
+network activity
+          --  bytes sent/received: 3675/13228
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.74/59.88GB
+
+----------------------------------------------------------------------
+2025-03-20 01:13:14
+hardware monitoring:
+		--  CPU usage: 7.4%
+          --  mem usage: 88.9%
+          --  total RAM: 7.87 GB
+          --  available RAM: 0.87 GB
+network activity
+          --  bytes sent/received: 3655/10379
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.74/59.88GB
+
+----------------------------------------------------------------------
+2025-03-20 01:13:24
+hardware monitoring:
+		--  CPU usage: 9.8%
+          --  mem usage: 88.7%
+          --  total RAM: 7.87 GB
+          --  available RAM: 0.89 GB
+network activity
+          --  bytes sent/received: 6182/20601
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.74/59.88GB
+
+----------------------------------------------------------------------
+2025-03-20 01:13:34
+hardware monitoring:
+		--  CPU usage: 7.0%
+          --  mem usage: 89.0%
+          --  total RAM: 7.87 GB
+          --  available RAM: 0.87 GB
+network activity
+          --  bytes sent/received: 216/7322
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.74/59.88GB
+
+----------------------------------------------------------------------
+2025-03-20 01:13:44
+hardware monitoring:
+		--  CPU usage: 7.0%
+          --  mem usage: 89.1%
+          --  total RAM: 7.87 GB
+          --  available RAM: 0.86 GB
+network activity
+          --  bytes sent/received: 7455/11737
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.74/59.88GB
+
+----------------------------------------------------------------------
+2025-03-20 01:13:54
+hardware monitoring:
+		--  CPU usage: 5.8%
+          --  mem usage: 87.1%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.01 GB
+network activity
+          --  bytes sent/received: 2401/6956
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.74/59.88GB
+
+----------------------------------------------------------------------
+2025-03-20 01:14:04
+hardware monitoring:
+		--  CPU usage: 4.3%
+          --  mem usage: 86.8%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.04 GB
+network activity
+          --  bytes sent/received: 3396/3858
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.74/59.88GB
+
+----------------------------------------------------------------------
+2025-03-20 01:14:14
+hardware monitoring:
+		--  CPU usage: 14.7%
+          --  mem usage: 86.5%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.06 GB
+network activity
+          --  bytes sent/received: 3559/3900
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.74/59.88GB
+
+----------------------------------------------------------------------
+2025-03-20 01:14:24
+hardware monitoring:
+		--  CPU usage: 8.2%
+          --  mem usage: 86.7%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.05 GB
+network activity
+          --  bytes sent/received: 108/148
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.74/59.88GB
+
+----------------------------------------------------------------------
+2025-03-20 01:14:34
+hardware monitoring:
+		--  CPU usage: 12.2%
+          --  mem usage: 86.8%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.04 GB
+network activity
+          --  bytes sent/received: 3396/3665
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.74/59.88GB
+
+----------------------------------------------------------------------
+2025-03-20 01:14:44
+hardware monitoring:
+		--  CPU usage: 11.3%
+          --  mem usage: 86.4%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.07 GB
+network activity
+          --  bytes sent/received: 3980/12727
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.74/59.88GB
+
+----------------------------------------------------------------------
+2025-03-20 01:14:54
+hardware monitoring:
+		--  CPU usage: 8.6%
+          --  mem usage: 86.5%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.06 GB
+network activity
+          --  bytes sent/received: 260/296
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.74/59.88GB
+
+----------------------------------------------------------------------
+2025-03-20 01:15:04
+hardware monitoring:
+		--  CPU usage: 8.2%
+          --  mem usage: 86.5%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.06 GB
+network activity
+          --  bytes sent/received: 3342/3399
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.74/59.88GB
+
+----------------------------------------------------------------------
+2025-03-20 01:15:14
+hardware monitoring:
+		--  CPU usage: 3.9%
+          --  mem usage: 86.5%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.06 GB
+network activity
+          --  bytes sent/received: 6906/4931
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.74/59.88GB
+
+----------------------------------------------------------------------
+2025-03-20 01:15:24
+hardware monitoring:
+		--  CPU usage: 7.4%
+          --  mem usage: 86.4%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.07 GB
+network activity
+          --  bytes sent/received: 3888/3656
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.74/59.88GB
+
+----------------------------------------------------------------------
+2025-03-20 01:15:34
+hardware monitoring:
+		--  CPU usage: 4.3%
+          --  mem usage: 86.3%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.08 GB
+network activity
+          --  bytes sent/received: 2128/3224
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.74/59.88GB
+
+----------------------------------------------------------------------
+2025-03-20 01:15:44
+hardware monitoring:
+		--  CPU usage: 5.4%
+          --  mem usage: 86.4%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.07 GB
+network activity
+          --  bytes sent/received: 3342/3399
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.74/59.88GB
+
+----------------------------------------------------------------------
+2025-03-20 01:15:55
+hardware monitoring:
+		--  CPU usage: 5.5%
+          --  mem usage: 86.5%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.06 GB
+network activity
+          --  bytes sent/received: 2733/3479
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.74/59.88GB
+
+----------------------------------------------------------------------
+2025-03-20 01:16:05
+hardware monitoring:
+		--  CPU usage: 6.6%
+          --  mem usage: 87.0%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.02 GB
+network activity
+          --  bytes sent/received: 108/0
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.74/59.88GB
+
+----------------------------------------------------------------------
+2025-03-20 01:16:15
+hardware monitoring:
+		--  CPU usage: 9.4%
+          --  mem usage: 87.0%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.02 GB
+network activity
+          --  bytes sent/received: 3396/4082
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.74/59.88GB
+
+----------------------------------------------------------------------
+2025-03-20 01:16:25
+hardware monitoring:
+		--  CPU usage: 7.0%
+          --  mem usage: 87.0%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.03 GB
+network activity
+          --  bytes sent/received: 3234/3582
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.74/59.88GB
+
+----------------------------------------------------------------------
+2025-03-20 01:16:35
+hardware monitoring:
+		--  CPU usage: 10.9%
+          --  mem usage: 87.0%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.02 GB
+network activity
+          --  bytes sent/received: 3729/3746
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.74/59.88GB
+
+----------------------------------------------------------------------
+2025-03-20 01:16:45
+hardware monitoring:
+		--  CPU usage: 7.0%
+          --  mem usage: 86.9%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.03 GB
+network activity
+          --  bytes sent/received: 2128/3332
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.74/59.88GB
+
+----------------------------------------------------------------------
+2025-03-20 01:16:55
+hardware monitoring:
+		--  CPU usage: 10.2%
+          --  mem usage: 88.2%
+          --  total RAM: 7.87 GB
+          --  available RAM: 0.93 GB
+network activity
+          --  bytes sent/received: 3785/16271
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.74/59.88GB
+
+----------------------------------------------------------------------
+2025-03-20 01:17:05
+hardware monitoring:
+		--  CPU usage: 6.3%
+          --  mem usage: 86.0%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.10 GB
+network activity
+          --  bytes sent/received: 3396/4488
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.74/59.88GB
+
+----------------------------------------------------------------------
+2025-03-20 01:17:15
+hardware monitoring:
+		--  CPU usage: 5.1%
+          --  mem usage: 86.1%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.10 GB
+network activity
+          --  bytes sent/received: 3396/5217
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.74/59.88GB
+
+----------------------------------------------------------------------
+2025-03-20 01:17:25
+hardware monitoring:
+		--  CPU usage: 12.1%
+          --  mem usage: 86.2%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.08 GB
+network activity
+          --  bytes sent/received: 3450/3557
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.74/59.88GB
+
+----------------------------------------------------------------------
+2025-03-20 01:17:35
+hardware monitoring:
+		--  CPU usage: 9.4%
+          --  mem usage: 86.7%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.05 GB
+network activity
+          --  bytes sent/received: 0/0
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.74/59.88GB
+
+----------------------------------------------------------------------
+2025-03-20 01:17:45
+hardware monitoring:
+		--  CPU usage: 5.9%
+          --  mem usage: 86.8%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.04 GB
+network activity
+          --  bytes sent/received: 3342/3400
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.74/59.88GB
+
+----------------------------------------------------------------------
+2025-03-20 01:17:55
+hardware monitoring:
+		--  CPU usage: 7.0%
+          --  mem usage: 86.9%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.03 GB
+network activity
+          --  bytes sent/received: 3396/3684
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.74/59.88GB
+
+----------------------------------------------------------------------
+2025-03-20 01:18:05
+hardware monitoring:
+		--  CPU usage: 9.8%
+          --  mem usage: 87.1%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.02 GB
+network activity
+          --  bytes sent/received: 54/241
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.74/59.88GB
+
+----------------------------------------------------------------------
+2025-03-20 01:18:15
+hardware monitoring:
+		--  CPU usage: 7.5%
+          --  mem usage: 87.2%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.01 GB
+network activity
+          --  bytes sent/received: 3342/3399
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.74/59.88GB
+
+----------------------------------------------------------------------
+2025-03-20 01:18:25
+hardware monitoring:
+		--  CPU usage: 11.3%
+          --  mem usage: 87.8%
+          --  total RAM: 7.87 GB
+          --  available RAM: 0.96 GB
+network activity
+          --  bytes sent/received: 3451/5108
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.74/59.88GB
+
+----------------------------------------------------------------------
+2025-03-20 01:18:35
+hardware monitoring:
+		--  CPU usage: 6.2%
+          --  mem usage: 87.2%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.01 GB
+network activity
+          --  bytes sent/received: 3504/3823
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.74/59.88GB
+
+----------------------------------------------------------------------
+2025-03-20 01:18:45
+hardware monitoring:
+		--  CPU usage: 12.8%
+          --  mem usage: 87.3%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.00 GB
+network activity
+          --  bytes sent/received: 162/577
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.74/59.88GB
+
+----------------------------------------------------------------------
+2025-03-20 01:18:55
+hardware monitoring:
+		--  CPU usage: 5.5%
+          --  mem usage: 86.0%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.10 GB
+network activity
+          --  bytes sent/received: 3612/41244
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.74/59.88GB
+
+----------------------------------------------------------------------
+2025-03-20 01:19:05
+hardware monitoring:
+		--  CPU usage: 7.8%
+          --  mem usage: 85.1%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.17 GB
+network activity
+          --  bytes sent/received: 3010/3705
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.74/59.88GB
+
+----------------------------------------------------------------------
+2025-03-20 01:19:15
+hardware monitoring:
+		--  CPU usage: 6.2%
+          --  mem usage: 85.1%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.17 GB
+network activity
+          --  bytes sent/received: 108/369
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.74/59.88GB
+
+----------------------------------------------------------------------
+2025-03-20 01:19:25
+hardware monitoring:
+		--  CPU usage: 6.2%
+          --  mem usage: 85.1%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.17 GB
+network activity
+          --  bytes sent/received: 3450/5543
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.74/59.88GB
+
+----------------------------------------------------------------------
+2025-03-20 01:19:36
+hardware monitoring:
+		--  CPU usage: 5.9%
+          --  mem usage: 85.2%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.16 GB
+network activity
+          --  bytes sent/received: 162/946
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.74/59.88GB
+
+----------------------------------------------------------------------
+2025-03-20 01:19:46
+hardware monitoring:
+		--  CPU usage: 9.3%
+          --  mem usage: 85.9%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.11 GB
+network activity
+          --  bytes sent/received: 3354/4214
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.74/59.88GB
+
+----------------------------------------------------------------------
+2025-03-20 01:19:56
+hardware monitoring:
+		--  CPU usage: 14.2%
+          --  mem usage: 86.2%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.09 GB
+network activity
+          --  bytes sent/received: 4334/6624
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.74/59.88GB
+
+----------------------------------------------------------------------
+2025-03-20 01:20:06
+hardware monitoring:
+		--  CPU usage: 7.4%
+          --  mem usage: 85.8%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.12 GB
+network activity
+          --  bytes sent/received: 206/294
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.74/59.88GB
+
+----------------------------------------------------------------------
+2025-03-20 01:20:16
+hardware monitoring:
+		--  CPU usage: 11.7%
+          --  mem usage: 85.8%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.11 GB
+network activity
+          --  bytes sent/received: 3216/3436
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.74/59.88GB
+
+----------------------------------------------------------------------
+2025-03-20 01:20:26
+hardware monitoring:
+		--  CPU usage: 8.5%
+          --  mem usage: 85.8%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.12 GB
+network activity
+          --  bytes sent/received: 3396/3947
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.74/59.88GB
+
+----------------------------------------------------------------------
+2025-03-20 01:20:36
+hardware monitoring:
+		--  CPU usage: 8.6%
+          --  mem usage: 86.0%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.10 GB
+network activity
+          --  bytes sent/received: 3450/3493
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.74/59.88GB
+
+----------------------------------------------------------------------
+2025-03-20 01:20:46
+hardware monitoring:
+		--  CPU usage: 7.4%
+          --  mem usage: 86.1%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.09 GB
+network activity
+          --  bytes sent/received: 0/3557
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.74/59.88GB
+
+----------------------------------------------------------------------
+2025-03-20 01:20:56
+hardware monitoring:
+		--  CPU usage: 9.7%
+          --  mem usage: 86.3%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.08 GB
+network activity
+          --  bytes sent/received: 6257/4670
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.74/59.88GB
+
+----------------------------------------------------------------------
+2025-03-20 01:21:06
+hardware monitoring:
+		--  CPU usage: 12.0%
+          --  mem usage: 85.8%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.11 GB
+network activity
+          --  bytes sent/received: 4040/5196
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.74/59.88GB
+
+----------------------------------------------------------------------
+2025-03-20 01:21:16
+hardware monitoring:
+		--  CPU usage: 11.9%
+          --  mem usage: 86.3%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.08 GB
+network activity
+          --  bytes sent/received: 12959/11410
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.74/59.88GB
+
+----------------------------------------------------------------------
+2025-03-20 01:21:26
+hardware monitoring:
+		--  CPU usage: 7.4%
+          --  mem usage: 86.2%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.08 GB
+network activity
+          --  bytes sent/received: 3870/3980
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.74/59.88GB
+
+----------------------------------------------------------------------
+2025-03-20 01:21:36
+hardware monitoring:
+		--  CPU usage: 6.2%
+          --  mem usage: 86.1%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.09 GB
+network activity
+          --  bytes sent/received: 54/141
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.74/59.88GB
+
+----------------------------------------------------------------------
+2025-03-20 01:21:46
+hardware monitoring:
+		--  CPU usage: 6.6%
+          --  mem usage: 86.4%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.07 GB
+network activity
+          --  bytes sent/received: 3501/4412
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.74/59.88GB
+
+----------------------------------------------------------------------
+2025-03-20 01:21:56
+hardware monitoring:
+		--  CPU usage: 9.0%
+          --  mem usage: 86.3%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.07 GB
+network activity
+          --  bytes sent/received: 8398/12063
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.74/59.88GB
+
+----------------------------------------------------------------------
+2025-03-20 01:22:06
+hardware monitoring:
+		--  CPU usage: 7.8%
+          --  mem usage: 85.7%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.12 GB
+network activity
+          --  bytes sent/received: 0/139
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.74/59.88GB
+
+----------------------------------------------------------------------
+2025-03-20 01:22:16
+hardware monitoring:
+		--  CPU usage: 9.0%
+          --  mem usage: 86.1%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.09 GB
+network activity
+          --  bytes sent/received: 3504/4089
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.74/59.88GB
+
+----------------------------------------------------------------------
+2025-03-20 01:22:26
+hardware monitoring:
+		--  CPU usage: 8.5%
+          --  mem usage: 86.1%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.09 GB
+network activity
+          --  bytes sent/received: 3815/3868
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.74/59.88GB
+
+----------------------------------------------------------------------
+2025-03-20 01:22:36
+hardware monitoring:
+		--  CPU usage: 8.6%
+          --  mem usage: 86.3%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.07 GB
+network activity
+          --  bytes sent/received: 8848/10338
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.74/59.88GB
+
+----------------------------------------------------------------------
+2025-03-20 01:22:46
+hardware monitoring:
+		--  CPU usage: 9.0%
+          --  mem usage: 87.1%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.02 GB
+network activity
+          --  bytes sent/received: 108/139
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.74/59.88GB
+
+----------------------------------------------------------------------
+2025-03-20 01:22:56
+hardware monitoring:
+		--  CPU usage: 5.9%
+          --  mem usage: 87.4%
+          --  total RAM: 7.87 GB
+          --  available RAM: 0.99 GB
+network activity
+          --  bytes sent/received: 108/706
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.74/59.88GB
+
+----------------------------------------------------------------------
+2025-03-20 01:23:06
+hardware monitoring:
+		--  CPU usage: 9.0%
+          --  mem usage: 86.8%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.04 GB
+network activity
+          --  bytes sent/received: 4109/5912
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.74/59.88GB
+
+----------------------------------------------------------------------
+2025-03-20 01:23:16
+hardware monitoring:
+		--  CPU usage: 19.8%
+          --  mem usage: 86.6%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.05 GB
+network activity
+          --  bytes sent/received: 3950/18497
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.74/59.88GB
+
+----------------------------------------------------------------------
+2025-03-20 01:23:26
+hardware monitoring:
+		--  CPU usage: 7.0%
+          --  mem usage: 86.6%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.05 GB
+network activity
+          --  bytes sent/received: 3926/4154
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.74/59.88GB
+
+----------------------------------------------------------------------
+2025-03-20 01:23:37
+hardware monitoring:
+		--  CPU usage: 7.8%
+          --  mem usage: 86.8%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.04 GB
+network activity
+          --  bytes sent/received: 5372/2099
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.74/59.88GB
+
+----------------------------------------------------------------------
+2025-03-20 01:23:47
+hardware monitoring:
+		--  CPU usage: 37.1%
+          --  mem usage: 87.2%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.00 GB
+network activity
+          --  bytes sent/received: 3462/4353
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.74/59.88GB
+
+----------------------------------------------------------------------
+2025-03-20 01:23:57
+hardware monitoring:
+		--  CPU usage: 8.9%
+          --  mem usage: 87.1%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.02 GB
+network activity
+          --  bytes sent/received: 3784/33664
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.74/59.88GB
+
+----------------------------------------------------------------------
+2025-03-20 01:24:07
+hardware monitoring:
+		--  CPU usage: 7.0%
+          --  mem usage: 86.4%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.07 GB
+network activity
+          --  bytes sent/received: 54/139
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.74/59.88GB
+
+----------------------------------------------------------------------
+2025-03-20 01:24:17
+hardware monitoring:
+		--  CPU usage: 6.2%
+          --  mem usage: 87.4%
+          --  total RAM: 7.87 GB
+          --  available RAM: 0.99 GB
+network activity
+          --  bytes sent/received: 3932/4740
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.74/59.88GB
+
+----------------------------------------------------------------------
+2025-03-20 01:24:28
+hardware monitoring:
+		--  CPU usage: 100.0%
+          --  mem usage: 93.2%
+          --  total RAM: 7.87 GB
+          --  available RAM: 0.53 GB
+network activity
+          --  bytes sent/received: 1611/35582
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.74/59.88GB
+
+----------------------------------------------------------------------
+2025-03-20 01:24:38
+hardware monitoring:
+		--  CPU usage: 14.2%
+          --  mem usage: 92.6%
+          --  total RAM: 7.87 GB
+          --  available RAM: 0.58 GB
+network activity
+          --  bytes sent/received: 4958/42239
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.74/59.88GB
+
+----------------------------------------------------------------------
+2025-03-20 01:24:48
+hardware monitoring:
+		--  CPU usage: 8.2%
+          --  mem usage: 92.7%
+          --  total RAM: 7.87 GB
+          --  available RAM: 0.57 GB
+network activity
+          --  bytes sent/received: 3938/5491
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.74/59.88GB
+
+----------------------------------------------------------------------
+2025-03-20 01:24:58
+hardware monitoring:
+		--  CPU usage: 5.5%
+          --  mem usage: 92.9%
+          --  total RAM: 7.87 GB
+          --  available RAM: 0.56 GB
+network activity
+          --  bytes sent/received: 3504/7381
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.74/59.88GB
+
+----------------------------------------------------------------------
+2025-03-20 01:25:08
+hardware monitoring:
+		--  CPU usage: 7.1%
+          --  mem usage: 92.9%
+          --  total RAM: 7.87 GB
+          --  available RAM: 0.56 GB
+network activity
+          --  bytes sent/received: 3342/3862
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.74/59.88GB
+
+----------------------------------------------------------------------
+2025-03-20 01:25:18
+hardware monitoring:
+		--  CPU usage: 7.7%
+          --  mem usage: 92.6%
+          --  total RAM: 7.87 GB
+          --  available RAM: 0.58 GB
+network activity
+          --  bytes sent/received: 0/2431
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.74/59.88GB
+
+----------------------------------------------------------------------
+2025-03-20 01:25:28
+hardware monitoring:
+		--  CPU usage: 10.1%
+          --  mem usage: 92.1%
+          --  total RAM: 7.87 GB
+          --  available RAM: 0.62 GB
+network activity
+          --  bytes sent/received: 5575/6143
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.74/59.88GB
+
+----------------------------------------------------------------------
+2025-03-20 01:25:38
+hardware monitoring:
+		--  CPU usage: 46.9%
+          --  mem usage: 95.4%
+          --  total RAM: 7.87 GB
+          --  available RAM: 0.37 GB
+network activity
+          --  bytes sent/received: 15395/880132
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.74/59.88GB
+
+----------------------------------------------------------------------
+2025-03-20 01:25:48
+hardware monitoring:
+		--  CPU usage: 8.6%
+          --  mem usage: 92.2%
+          --  total RAM: 7.87 GB
+          --  available RAM: 0.61 GB
+network activity
+          --  bytes sent/received: 3396/3532
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.75/59.88GB
+
+----------------------------------------------------------------------
+2025-03-20 01:25:58
+hardware monitoring:
+		--  CPU usage: 11.0%
+          --  mem usage: 92.0%
+          --  total RAM: 7.87 GB
+          --  available RAM: 0.63 GB
+network activity
+          --  bytes sent/received: 1211/904
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.74/59.89GB
+
+----------------------------------------------------------------------
+2025-03-20 01:26:08
+hardware monitoring:
+		--  CPU usage: 48.7%
+          --  mem usage: 90.3%
+          --  total RAM: 7.87 GB
+          --  available RAM: 0.76 GB
+network activity
+          --  bytes sent/received: 54/5116
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.74/59.88GB
+
+----------------------------------------------------------------------
+2025-03-20 01:26:18
+hardware monitoring:
+		--  CPU usage: 9.3%
+          --  mem usage: 90.2%
+          --  total RAM: 7.87 GB
+          --  available RAM: 0.77 GB
+network activity
+          --  bytes sent/received: 3342/3465
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.74/59.88GB
+
+----------------------------------------------------------------------
+2025-03-20 01:26:28
+hardware monitoring:
+		--  CPU usage: 5.4%
+          --  mem usage: 90.0%
+          --  total RAM: 7.87 GB
+          --  available RAM: 0.79 GB
+network activity
+          --  bytes sent/received: 3396/3553
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.74/59.88GB
+
+----------------------------------------------------------------------
+2025-03-20 01:26:39
+hardware monitoring:
+		--  CPU usage: 14.7%
+          --  mem usage: 88.5%
+          --  total RAM: 7.87 GB
+          --  available RAM: 0.91 GB
+network activity
+          --  bytes sent/received: 6498/5166
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.74/59.88GB
+
+----------------------------------------------------------------------
+2025-03-20 01:26:49
+hardware monitoring:
+		--  CPU usage: 5.9%
+          --  mem usage: 88.5%
+          --  total RAM: 7.87 GB
+          --  available RAM: 0.90 GB
+network activity
+          --  bytes sent/received: 54/131
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.74/59.88GB
+
+----------------------------------------------------------------------
+2025-03-20 01:26:59
+hardware monitoring:
+		--  CPU usage: 24.1%
+          --  mem usage: 89.1%
+          --  total RAM: 7.87 GB
+          --  available RAM: 0.86 GB
+network activity
+          --  bytes sent/received: 9634/49962
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.74/59.88GB
+
+----------------------------------------------------------------------
+2025-03-20 01:27:09
+hardware monitoring:
+		--  CPU usage: 5.9%
+          --  mem usage: 90.1%
+          --  total RAM: 7.87 GB
+          --  available RAM: 0.78 GB
+network activity
+          --  bytes sent/received: 3575/3476
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.74/59.88GB
+
+----------------------------------------------------------------------
+2025-03-20 01:27:19
+hardware monitoring:
+		--  CPU usage: 7.8%
+          --  mem usage: 90.5%
+          --  total RAM: 7.87 GB
+          --  available RAM: 0.75 GB
+network activity
+          --  bytes sent/received: 3342/3400
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.75/59.88GB
+
+----------------------------------------------------------------------
+2025-03-20 01:27:29
+hardware monitoring:
+		--  CPU usage: 5.1%
+          --  mem usage: 90.3%
+          --  total RAM: 7.87 GB
+          --  available RAM: 0.77 GB
+network activity
+          --  bytes sent/received: 3655/30281
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.75/59.88GB
+
+----------------------------------------------------------------------
+2025-03-20 01:27:39
+hardware monitoring:
+		--  CPU usage: 8.5%
+          --  mem usage: 91.9%
+          --  total RAM: 7.87 GB
+          --  available RAM: 0.64 GB
+network activity
+          --  bytes sent/received: 4373/43207
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.77/59.86GB
+
+----------------------------------------------------------------------
+2025-03-20 01:27:49
+hardware monitoring:
+		--  CPU usage: 38.4%
+          --  mem usage: 91.2%
+          --  total RAM: 7.87 GB
+          --  available RAM: 0.69 GB
+network activity
+          --  bytes sent/received: 3396/3695
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.77/59.86GB
+
+----------------------------------------------------------------------
+2025-03-20 01:27:59
+hardware monitoring:
+		--  CPU usage: 7.0%
+          --  mem usage: 90.2%
+          --  total RAM: 7.87 GB
+          --  available RAM: 0.77 GB
+network activity
+          --  bytes sent/received: 3493/3804
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.77/59.86GB
+
+----------------------------------------------------------------------
+2025-03-20 01:28:09
+hardware monitoring:
+		--  CPU usage: 1.9%
+          --  mem usage: 90.1%
+          --  total RAM: 7.87 GB
+          --  available RAM: 0.78 GB
+network activity
+          --  bytes sent/received: 255/708
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.77/59.86GB
+
+----------------------------------------------------------------------
+2025-03-20 01:28:19
+hardware monitoring:
+		--  CPU usage: 8.1%
+          --  mem usage: 89.7%
+          --  total RAM: 7.87 GB
+          --  available RAM: 0.81 GB
+network activity
+          --  bytes sent/received: 3888/3762
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.77/59.86GB
+
+----------------------------------------------------------------------
+2025-03-20 01:28:29
+hardware monitoring:
+		--  CPU usage: 5.9%
+          --  mem usage: 90.0%
+          --  total RAM: 7.87 GB
+          --  available RAM: 0.79 GB
+network activity
+          --  bytes sent/received: 4473/4835
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.77/59.86GB
+
+----------------------------------------------------------------------
+2025-03-20 01:28:39
+hardware monitoring:
+		--  CPU usage: 10.1%
+          --  mem usage: 90.4%
+          --  total RAM: 7.87 GB
+          --  available RAM: 0.75 GB
+network activity
+          --  bytes sent/received: 3908/3707
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.77/59.86GB
+
+----------------------------------------------------------------------
+2025-03-20 01:28:49
+hardware monitoring:
+		--  CPU usage: 8.2%
+          --  mem usage: 90.0%
+          --  total RAM: 7.87 GB
+          --  available RAM: 0.78 GB
+network activity
+          --  bytes sent/received: 54/2067
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.77/59.86GB
+
+----------------------------------------------------------------------
+2025-03-20 01:28:59
+hardware monitoring:
+		--  CPU usage: 10.8%
+          --  mem usage: 85.7%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.13 GB
+network activity
+          --  bytes sent/received: 3687/3870
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.77/59.86GB
+
+----------------------------------------------------------------------
+2025-03-20 01:29:09
+hardware monitoring:
+		--  CPU usage: 3.5%
+          --  mem usage: 84.8%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.20 GB
+network activity
+          --  bytes sent/received: 3396/6401
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.77/59.86GB
+
+----------------------------------------------------------------------
+2025-03-20 01:29:19
+hardware monitoring:
+		--  CPU usage: 3.1%
+          --  mem usage: 85.1%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.17 GB
+network activity
+          --  bytes sent/received: 394/281
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.77/59.86GB
+
+----------------------------------------------------------------------
+2025-03-20 01:29:29
+hardware monitoring:
+		--  CPU usage: 9.5%
+          --  mem usage: 84.1%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.25 GB
+network activity
+          --  bytes sent/received: 3493/3493
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.77/59.86GB
+
+----------------------------------------------------------------------
+2025-03-20 01:29:39
+hardware monitoring:
+		--  CPU usage: 7.7%
+          --  mem usage: 83.8%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.27 GB
+network activity
+          --  bytes sent/received: 3396/3655
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.77/59.86GB
+
+----------------------------------------------------------------------
+2025-03-20 01:29:49
+hardware monitoring:
+		--  CPU usage: 17.5%
+          --  mem usage: 83.6%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.29 GB
+network activity
+          --  bytes sent/received: 1210/983
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.77/59.86GB
+
+----------------------------------------------------------------------
+2025-03-20 01:30:00
+hardware monitoring:
+		--  CPU usage: 5.4%
+          --  mem usage: 85.9%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.11 GB
+network activity
+          --  bytes sent/received: 4077/4572
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.77/59.85GB
+
+----------------------------------------------------------------------
+2025-03-20 01:30:10
+hardware monitoring:
+		--  CPU usage: 8.8%
+          --  mem usage: 86.1%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.10 GB
+network activity
+          --  bytes sent/received: 216/530
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.77/59.85GB
+
+----------------------------------------------------------------------
+2025-03-20 01:30:20
+hardware monitoring:
+		--  CPU usage: 6.9%
+          --  mem usage: 86.9%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.03 GB
+network activity
+          --  bytes sent/received: 3612/3938
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.77/59.85GB
+
+----------------------------------------------------------------------
+2025-03-20 01:30:30
+hardware monitoring:
+		--  CPU usage: 5.1%
+          --  mem usage: 87.0%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.03 GB
+network activity
+          --  bytes sent/received: 3720/26454
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.77/59.85GB
+
+----------------------------------------------------------------------
+2025-03-20 01:30:40
+hardware monitoring:
+		--  CPU usage: 4.3%
+          --  mem usage: 86.0%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.10 GB
+network activity
+          --  bytes sent/received: 3504/3564
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.77/59.85GB
+
+----------------------------------------------------------------------
+2025-03-20 01:30:50
+hardware monitoring:
+		--  CPU usage: 6.6%
+          --  mem usage: 86.0%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.10 GB
+network activity
+          --  bytes sent/received: 162/759
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.77/59.85GB
+
+----------------------------------------------------------------------
+2025-03-20 01:31:00
+hardware monitoring:
+		--  CPU usage: 7.4%
+          --  mem usage: 86.1%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.09 GB
+network activity
+          --  bytes sent/received: 2848/2712
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.77/59.85GB
+
+----------------------------------------------------------------------
+2025-03-20 01:31:10
+hardware monitoring:
+		--  CPU usage: 7.4%
+          --  mem usage: 86.6%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.06 GB
+network activity
+          --  bytes sent/received: 3612/3950
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.77/59.85GB
+
+----------------------------------------------------------------------
+2025-03-20 01:31:20
+hardware monitoring:
+		--  CPU usage: 3.1%
+          --  mem usage: 86.6%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.05 GB
+network activity
+          --  bytes sent/received: 3558/4357
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.77/59.85GB
+
+----------------------------------------------------------------------
+2025-03-20 01:31:30
+hardware monitoring:
+		--  CPU usage: 4.3%
+          --  mem usage: 86.5%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.06 GB
+network activity
+          --  bytes sent/received: 3612/3939
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.77/59.85GB
+
+----------------------------------------------------------------------
+2025-03-20 01:31:40
+hardware monitoring:
+		--  CPU usage: 4.7%
+          --  mem usage: 86.4%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.07 GB
+network activity
+          --  bytes sent/received: 216/616
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.77/59.85GB
+
+----------------------------------------------------------------------
+2025-03-20 01:31:50
+hardware monitoring:
+		--  CPU usage: 7.0%
+          --  mem usage: 86.3%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.07 GB
+network activity
+          --  bytes sent/received: 3558/3615
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.77/59.85GB
+
+----------------------------------------------------------------------
+2025-03-20 01:32:00
+hardware monitoring:
+		--  CPU usage: 3.5%
+          --  mem usage: 86.1%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.09 GB
+network activity
+          --  bytes sent/received: 3558/3772
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.77/59.85GB
+
+----------------------------------------------------------------------
+2025-03-20 01:32:10
+hardware monitoring:
+		--  CPU usage: 9.9%
+          --  mem usage: 86.1%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.09 GB
+network activity
+          --  bytes sent/received: 245/189
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.77/59.85GB
+
+----------------------------------------------------------------------
+2025-03-20 01:32:20
+hardware monitoring:
+		--  CPU usage: 8.9%
+          --  mem usage: 86.1%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.10 GB
+network activity
+          --  bytes sent/received: 3612/4011
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.77/59.86GB
+
+----------------------------------------------------------------------
+2025-03-20 01:32:30
+hardware monitoring:
+		--  CPU usage: 1.2%
+          --  mem usage: 86.0%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.10 GB
+network activity
+          --  bytes sent/received: 4413/5266
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.77/59.86GB
+
+----------------------------------------------------------------------
+2025-03-20 01:32:40
+hardware monitoring:
+		--  CPU usage: 8.1%
+          --  mem usage: 87.5%
+          --  total RAM: 7.87 GB
+          --  available RAM: 0.98 GB
+network activity
+          --  bytes sent/received: 4065/13510
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.77/59.86GB
+
+----------------------------------------------------------------------
+2025-03-20 01:32:50
+hardware monitoring:
+		--  CPU usage: 5.8%
+          --  mem usage: 87.7%
+          --  total RAM: 7.87 GB
+          --  available RAM: 0.97 GB
+network activity
+          --  bytes sent/received: 3450/3455
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.77/59.86GB
+
+----------------------------------------------------------------------
+2025-03-20 01:33:00
+hardware monitoring:
+		--  CPU usage: 4.3%
+          --  mem usage: 87.7%
+          --  total RAM: 7.87 GB
+          --  available RAM: 0.97 GB
+network activity
+          --  bytes sent/received: 3504/6784
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.77/59.86GB
+
+----------------------------------------------------------------------
+2025-03-20 01:33:10
+hardware monitoring:
+		--  CPU usage: 4.7%
+          --  mem usage: 87.4%
+          --  total RAM: 7.87 GB
+          --  available RAM: 0.99 GB
+network activity
+          --  bytes sent/received: 3479/3642
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.77/59.86GB
+
+----------------------------------------------------------------------
+2025-03-20 01:33:20
+hardware monitoring:
+		--  CPU usage: 5.1%
+          --  mem usage: 87.5%
+          --  total RAM: 7.87 GB
+          --  available RAM: 0.98 GB
+network activity
+          --  bytes sent/received: 3450/3925
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.77/59.86GB
+
+----------------------------------------------------------------------
+2025-03-20 01:33:30
+hardware monitoring:
+		--  CPU usage: 8.1%
+          --  mem usage: 87.5%
+          --  total RAM: 7.87 GB
+          --  available RAM: 0.98 GB
+network activity
+          --  bytes sent/received: 3342/3400
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.77/59.86GB
+
+----------------------------------------------------------------------
+2025-03-20 01:33:40
+hardware monitoring:
+		--  CPU usage: 9.3%
+          --  mem usage: 87.4%
+          --  total RAM: 7.87 GB
+          --  available RAM: 0.99 GB
+network activity
+          --  bytes sent/received: 5257/11729
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.77/59.85GB
+
+----------------------------------------------------------------------
+2025-03-20 01:33:51
+hardware monitoring:
+		--  CPU usage: 8.2%
+          --  mem usage: 87.8%
+          --  total RAM: 7.87 GB
+          --  available RAM: 0.96 GB
+network activity
+          --  bytes sent/received: 3396/3399
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.77/59.85GB
+
+----------------------------------------------------------------------
+2025-03-20 01:34:01
+hardware monitoring:
+		--  CPU usage: 5.5%
+          --  mem usage: 86.2%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.08 GB
+network activity
+          --  bytes sent/received: 3396/3544
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.77/59.85GB
+
+----------------------------------------------------------------------
+2025-03-20 01:34:11
+hardware monitoring:
+		--  CPU usage: 1.6%
+          --  mem usage: 85.9%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.11 GB
+network activity
+          --  bytes sent/received: 301/1390
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.77/59.85GB
+
+----------------------------------------------------------------------
+2025-03-20 01:34:21
+hardware monitoring:
+		--  CPU usage: 5.0%
+          --  mem usage: 85.9%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.11 GB
+network activity
+          --  bytes sent/received: 3532/3598
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.77/59.85GB
+
+----------------------------------------------------------------------
+2025-03-20 01:34:31
+hardware monitoring:
+		--  CPU usage: 2.7%
+          --  mem usage: 85.6%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.14 GB
+network activity
+          --  bytes sent/received: 3558/4158
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.77/59.85GB
+
+----------------------------------------------------------------------
+2025-03-20 01:34:41
+hardware monitoring:
+		--  CPU usage: 2.7%
+          --  mem usage: 85.5%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.14 GB
+network activity
+          --  bytes sent/received: 3462/4451
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.77/59.85GB
+
+----------------------------------------------------------------------
+2025-03-20 01:34:51
+hardware monitoring:
+		--  CPU usage: 1.6%
+          --  mem usage: 85.5%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.14 GB
+network activity
+          --  bytes sent/received: 3396/3629
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.77/59.85GB
+
+----------------------------------------------------------------------
+2025-03-20 01:35:01
+hardware monitoring:
+		--  CPU usage: 10.4%
+          --  mem usage: 87.6%
+          --  total RAM: 7.87 GB
+          --  available RAM: 0.97 GB
+network activity
+          --  bytes sent/received: 42/42
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.77/59.85GB
+
+----------------------------------------------------------------------
+2025-03-20 01:35:11
+hardware monitoring:
+		--  CPU usage: 11.9%
+          --  mem usage: 87.5%
+          --  total RAM: 7.87 GB
+          --  available RAM: 0.98 GB
+network activity
+          --  bytes sent/received: 3859/39334
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.77/59.85GB
+
+----------------------------------------------------------------------
+2025-03-20 01:35:21
+hardware monitoring:
+		--  CPU usage: 8.8%
+          --  mem usage: 85.0%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.18 GB
+network activity
+          --  bytes sent/received: 3504/4761
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.77/59.85GB
+
+----------------------------------------------------------------------
+2025-03-20 01:35:31
+hardware monitoring:
+		--  CPU usage: 8.8%
+          --  mem usage: 85.0%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.18 GB
+network activity
+          --  bytes sent/received: 3396/3653
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.77/59.85GB
+
+----------------------------------------------------------------------
+2025-03-20 01:35:41
+hardware monitoring:
+		--  CPU usage: 4.3%
+          --  mem usage: 84.7%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.20 GB
+network activity
+          --  bytes sent/received: 147/93
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.77/59.85GB
+
+----------------------------------------------------------------------
+2025-03-20 01:35:51
+hardware monitoring:
+		--  CPU usage: 7.4%
+          --  mem usage: 85.3%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.16 GB
+network activity
+          --  bytes sent/received: 13733/10612
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.77/59.85GB
+
+----------------------------------------------------------------------
+2025-03-20 01:36:01
+hardware monitoring:
+		--  CPU usage: 27.6%
+          --  mem usage: 88.4%
+          --  total RAM: 7.87 GB
+          --  available RAM: 0.91 GB
+network activity
+          --  bytes sent/received: 19005/3185279
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.77/59.85GB
+
+----------------------------------------------------------------------
+2025-03-20 01:36:11
+hardware monitoring:
+		--  CPU usage: 8.6%
+          --  mem usage: 88.7%
+          --  total RAM: 7.87 GB
+          --  available RAM: 0.89 GB
+network activity
+          --  bytes sent/received: 3489/3628
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.77/59.85GB
+
+----------------------------------------------------------------------
+2025-03-20 01:36:21
+hardware monitoring:
+		--  CPU usage: 13.4%
+          --  mem usage: 87.7%
+          --  total RAM: 7.87 GB
+          --  available RAM: 0.97 GB
+network activity
+          --  bytes sent/received: 18296/3922006
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.77/59.85GB
+
+----------------------------------------------------------------------
+2025-03-20 01:36:31
+hardware monitoring:
+		--  CPU usage: 8.5%
+          --  mem usage: 88.4%
+          --  total RAM: 7.87 GB
+          --  available RAM: 0.91 GB
+network activity
+          --  bytes sent/received: 441/1470
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.77/59.85GB
+
+----------------------------------------------------------------------
+2025-03-20 01:36:41
+hardware monitoring:
+		--  CPU usage: 51.5%
+          --  mem usage: 89.1%
+          --  total RAM: 7.87 GB
+          --  available RAM: 0.86 GB
+network activity
+          --  bytes sent/received: 3396/3645
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.77/59.85GB
+
+----------------------------------------------------------------------
+2025-03-20 01:36:51
+hardware monitoring:
+		--  CPU usage: 16.0%
+          --  mem usage: 89.1%
+          --  total RAM: 7.87 GB
+          --  available RAM: 0.86 GB
+network activity
+          --  bytes sent/received: 6541/12173
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.77/59.85GB
+
+----------------------------------------------------------------------
+2025-03-20 01:37:02
+hardware monitoring:
+		--  CPU usage: 16.7%
+          --  mem usage: 90.0%
+          --  total RAM: 7.87 GB
+          --  available RAM: 0.79 GB
+network activity
+          --  bytes sent/received: 0/0
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.77/59.85GB
+
+----------------------------------------------------------------------
+2025-03-20 01:37:12
+hardware monitoring:
+		--  CPU usage: 11.2%
+          --  mem usage: 89.5%
+          --  total RAM: 7.87 GB
+          --  available RAM: 0.82 GB
+network activity
+          --  bytes sent/received: 7326/153334
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.77/59.85GB
+
+----------------------------------------------------------------------
+2025-03-20 01:37:22
+hardware monitoring:
+		--  CPU usage: 16.0%
+          --  mem usage: 89.9%
+          --  total RAM: 7.87 GB
+          --  available RAM: 0.79 GB
+network activity
+          --  bytes sent/received: 109/264
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.77/59.85GB
+
+----------------------------------------------------------------------
+2025-03-20 01:37:32
+hardware monitoring:
+		--  CPU usage: 4.3%
+          --  mem usage: 88.1%
+          --  total RAM: 7.87 GB
+          --  available RAM: 0.94 GB
+network activity
+          --  bytes sent/received: 4131/4072
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.77/59.85GB
+
+----------------------------------------------------------------------
+2025-03-20 01:37:42
+hardware monitoring:
+		--  CPU usage: 9.7%
+          --  mem usage: 89.1%
+          --  total RAM: 7.87 GB
+          --  available RAM: 0.86 GB
+network activity
+          --  bytes sent/received: 3408/5453
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.77/59.85GB
+
+----------------------------------------------------------------------
+2025-03-20 01:37:52
+hardware monitoring:
+		--  CPU usage: 21.4%
+          --  mem usage: 89.4%
+          --  total RAM: 7.87 GB
+          --  available RAM: 0.84 GB
+network activity
+          --  bytes sent/received: 4209/4869
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.77/59.85GB
+
+----------------------------------------------------------------------
+2025-03-20 01:38:02
+hardware monitoring:
+		--  CPU usage: 9.1%
+          --  mem usage: 89.5%
+          --  total RAM: 7.87 GB
+          --  available RAM: 0.82 GB
+network activity
+          --  bytes sent/received: 7171/3718
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.77/59.85GB
+
+----------------------------------------------------------------------
+2025-03-20 01:38:12
+hardware monitoring:
+		--  CPU usage: 8.3%
+          --  mem usage: 89.7%
+          --  total RAM: 7.87 GB
+          --  available RAM: 0.81 GB
+network activity
+          --  bytes sent/received: 3450/3629
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.77/59.85GB
+
+----------------------------------------------------------------------
+2025-03-20 01:38:22
+hardware monitoring:
+		--  CPU usage: 8.2%
+          --  mem usage: 89.7%
+          --  total RAM: 7.87 GB
+          --  available RAM: 0.81 GB
+network activity
+          --  bytes sent/received: 3396/3541
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.77/59.85GB
+
+----------------------------------------------------------------------
+2025-03-20 01:38:32
+hardware monitoring:
+		--  CPU usage: 5.5%
+          --  mem usage: 88.9%
+          --  total RAM: 7.87 GB
+          --  available RAM: 0.87 GB
+network activity
+          --  bytes sent/received: 7191/9018
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.77/59.85GB
+
+----------------------------------------------------------------------
+2025-03-20 01:38:42
+hardware monitoring:
+		--  CPU usage: 13.7%
+          --  mem usage: 89.5%
+          --  total RAM: 7.87 GB
+          --  available RAM: 0.83 GB
+network activity
+          --  bytes sent/received: 1763/735
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.77/59.85GB
+
+----------------------------------------------------------------------
+2025-03-20 01:38:52
+hardware monitoring:
+		--  CPU usage: 16.0%
+          --  mem usage: 89.3%
+          --  total RAM: 7.87 GB
+          --  available RAM: 0.84 GB
+network activity
+          --  bytes sent/received: 3450/3734
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.77/59.85GB
+
+----------------------------------------------------------------------
+2025-03-20 01:39:02
+hardware monitoring:
+		--  CPU usage: 16.3%
+          --  mem usage: 88.5%
+          --  total RAM: 7.87 GB
+          --  available RAM: 0.91 GB
+network activity
+          --  bytes sent/received: 3396/3552
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.77/59.85GB
+
+----------------------------------------------------------------------
+2025-03-20 01:39:12
+hardware monitoring:
+		--  CPU usage: 5.8%
+          --  mem usage: 87.9%
+          --  total RAM: 7.87 GB
+          --  available RAM: 0.95 GB
+network activity
+          --  bytes sent/received: 3396/3553
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.77/59.85GB
+
+----------------------------------------------------------------------
+2025-03-20 01:39:22
+hardware monitoring:
+		--  CPU usage: 28.5%
+          --  mem usage: 89.9%
+          --  total RAM: 7.87 GB
+          --  available RAM: 0.80 GB
+network activity
+          --  bytes sent/received: 298/271
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.77/59.85GB
+
+----------------------------------------------------------------------
+2025-03-20 01:39:32
+hardware monitoring:
+		--  CPU usage: 31.8%
+          --  mem usage: 93.8%
+          --  total RAM: 7.87 GB
+          --  available RAM: 0.49 GB
+network activity
+          --  bytes sent/received: 6576/6923
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.77/59.85GB
+
+----------------------------------------------------------------------
+2025-03-20 01:39:43
+hardware monitoring:
+		--  CPU usage: 65.1%
+          --  mem usage: 95.8%
+          --  total RAM: 7.87 GB
+          --  available RAM: 0.33 GB
+network activity
+          --  bytes sent/received: 33903/457301
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.77/59.85GB
+
+----------------------------------------------------------------------
+2025-03-20 01:39:53
+hardware monitoring:
+		--  CPU usage: 100.0%
+          --  mem usage: 97.0%
+          --  total RAM: 7.87 GB
+          --  available RAM: 0.24 GB
+network activity
+          --  bytes sent/received: 63075/8406567
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.77/59.85GB
+
+----------------------------------------------------------------------
+2025-03-20 01:40:03
+hardware monitoring:
+		--  CPU usage: 6.6%
+          --  mem usage: 93.4%
+          --  total RAM: 7.87 GB
+          --  available RAM: 0.52 GB
+network activity
+          --  bytes sent/received: 3450/9795
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.78/59.85GB
+
+----------------------------------------------------------------------
+2025-03-20 01:40:14
+hardware monitoring:
+		--  CPU usage: 8.2%
+          --  mem usage: 96.0%
+          --  total RAM: 7.87 GB
+          --  available RAM: 0.31 GB
+network activity
+          --  bytes sent/received: 4249/10460
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.78/59.85GB
+
+----------------------------------------------------------------------
+2025-03-20 01:40:24
+hardware monitoring:
+		--  CPU usage: 9.6%
+          --  mem usage: 94.9%
+          --  total RAM: 7.87 GB
+          --  available RAM: 0.40 GB
+network activity
+          --  bytes sent/received: 1870/6786
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.78/59.84GB
+
+----------------------------------------------------------------------
+2025-03-20 01:40:34
+hardware monitoring:
+		--  CPU usage: 8.6%
+          --  mem usage: 95.3%
+          --  total RAM: 7.87 GB
+          --  available RAM: 0.37 GB
+network activity
+          --  bytes sent/received: 3396/9480
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.78/59.84GB
+
+----------------------------------------------------------------------
+2025-03-20 01:40:44
+hardware monitoring:
+		--  CPU usage: 9.4%
+          --  mem usage: 95.5%
+          --  total RAM: 7.87 GB
+          --  available RAM: 0.35 GB
+network activity
+          --  bytes sent/received: 259/6693
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.80/59.83GB
+
+----------------------------------------------------------------------
+2025-03-20 01:40:54
+hardware monitoring:
+		--  CPU usage: 13.5%
+          --  mem usage: 96.4%
+          --  total RAM: 7.87 GB
+          --  available RAM: 0.28 GB
+network activity
+          --  bytes sent/received: 3504/9817
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.80/59.83GB
+
+----------------------------------------------------------------------
+2025-03-20 01:41:04
+hardware monitoring:
+		--  CPU usage: 11.6%
+          --  mem usage: 96.9%
+          --  total RAM: 7.87 GB
+          --  available RAM: 0.24 GB
+network activity
+          --  bytes sent/received: 8997/1815294
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.80/59.83GB
+
+----------------------------------------------------------------------
+2025-03-20 01:41:14
+hardware monitoring:
+		--  CPU usage: 11.3%
+          --  mem usage: 93.0%
+          --  total RAM: 7.87 GB
+          --  available RAM: 0.55 GB
+network activity
+          --  bytes sent/received: 4833/15285
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.80/59.83GB
+
+----------------------------------------------------------------------
+2025-03-20 01:41:24
+hardware monitoring:
+		--  CPU usage: 16.0%
+          --  mem usage: 94.1%
+          --  total RAM: 7.87 GB
+          --  available RAM: 0.47 GB
+network activity
+          --  bytes sent/received: 270/7750
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.80/59.83GB
+
+----------------------------------------------------------------------
+2025-03-20 01:41:34
+hardware monitoring:
+		--  CPU usage: 36.8%
+          --  mem usage: 96.3%
+          --  total RAM: 7.87 GB
+          --  available RAM: 0.29 GB
+network activity
+          --  bytes sent/received: 54891/4185464
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.83/59.79GB
+
+----------------------------------------------------------------------
+2025-03-20 01:41:44
+hardware monitoring:
+		--  CPU usage: 37.8%
+          --  mem usage: 96.1%
+          --  total RAM: 7.87 GB
+          --  available RAM: 0.30 GB
+network activity
+          --  bytes sent/received: 5299/10422
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.88/59.74GB
+
+----------------------------------------------------------------------
+2025-03-20 01:41:54
+hardware monitoring:
+		--  CPU usage: 7.8%
+          --  mem usage: 94.8%
+          --  total RAM: 7.87 GB
+          --  available RAM: 0.41 GB
+network activity
+          --  bytes sent/received: 765/7097
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.88/59.74GB
+
+----------------------------------------------------------------------
+2025-03-20 01:42:04
+hardware monitoring:
+		--  CPU usage: 8.6%
+          --  mem usage: 95.2%
+          --  total RAM: 7.87 GB
+          --  available RAM: 0.37 GB
+network activity
+          --  bytes sent/received: 3559/10476
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.88/59.74GB
+
+----------------------------------------------------------------------
+2025-03-20 01:42:14
+hardware monitoring:
+		--  CPU usage: 4.3%
+          --  mem usage: 95.6%
+          --  total RAM: 7.87 GB
+          --  available RAM: 0.35 GB
+network activity
+          --  bytes sent/received: 326/6598
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.88/59.74GB
+
+----------------------------------------------------------------------
+2025-03-20 01:42:24
+hardware monitoring:
+		--  CPU usage: 7.0%
+          --  mem usage: 94.9%
+          --  total RAM: 7.87 GB
+          --  available RAM: 0.40 GB
+network activity
+          --  bytes sent/received: 12176/2339885
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.88/59.74GB
+
+----------------------------------------------------------------------
+2025-03-20 01:42:34
+hardware monitoring:
+		--  CPU usage: 11.2%
+          --  mem usage: 95.8%
+          --  total RAM: 7.87 GB
+          --  available RAM: 0.33 GB
+network activity
+          --  bytes sent/received: 3506/4158
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.88/59.74GB
+
+----------------------------------------------------------------------
+2025-03-20 01:42:44
+hardware monitoring:
+		--  CPU usage: 15.9%
+          --  mem usage: 96.0%
+          --  total RAM: 7.87 GB
+          --  available RAM: 0.32 GB
+network activity
+          --  bytes sent/received: 4385/18652
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.88/59.74GB
+
+----------------------------------------------------------------------
+2025-03-20 01:42:54
+hardware monitoring:
+		--  CPU usage: 11.3%
+          --  mem usage: 96.0%
+          --  total RAM: 7.87 GB
+          --  available RAM: 0.31 GB
+network activity
+          --  bytes sent/received: 5086/4901
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.88/59.74GB
+
+----------------------------------------------------------------------
+2025-03-20 01:43:04
+hardware monitoring:
+		--  CPU usage: 52.3%
+          --  mem usage: 94.9%
+          --  total RAM: 7.87 GB
+          --  available RAM: 0.40 GB
+network activity
+          --  bytes sent/received: 3396/3508
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.88/59.74GB
+
+----------------------------------------------------------------------
+2025-03-20 01:43:15
+hardware monitoring:
+		--  CPU usage: 9.7%
+          --  mem usage: 91.9%
+          --  total RAM: 7.87 GB
+          --  available RAM: 0.64 GB
+network activity
+          --  bytes sent/received: 3560/3814
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.88/59.74GB
+
+----------------------------------------------------------------------
+2025-03-20 01:43:25
+hardware monitoring:
+		--  CPU usage: 10.9%
+          --  mem usage: 92.2%
+          --  total RAM: 7.87 GB
+          --  available RAM: 0.61 GB
+network activity
+          --  bytes sent/received: 3588/5253
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.88/59.74GB
+
+----------------------------------------------------------------------
+2025-03-20 01:43:35
+hardware monitoring:
+		--  CPU usage: 9.8%
+          --  mem usage: 92.6%
+          --  total RAM: 7.87 GB
+          --  available RAM: 0.58 GB
+network activity
+          --  bytes sent/received: 11933/18268
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.88/59.74GB
+
+----------------------------------------------------------------------
+2025-03-20 01:43:45
+hardware monitoring:
+		--  CPU usage: 45.7%
+          --  mem usage: 92.6%
+          --  total RAM: 7.87 GB
+          --  available RAM: 0.58 GB
+network activity
+          --  bytes sent/received: 3396/3647
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.88/59.74GB
+
+----------------------------------------------------------------------
+2025-03-20 01:43:55
+hardware monitoring:
+		--  CPU usage: 24.6%
+          --  mem usage: 82.8%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.35 GB
+network activity
+          --  bytes sent/received: 3560/3593
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.88/59.74GB
+
+----------------------------------------------------------------------
+2025-03-20 01:44:05
+hardware monitoring:
+		--  CPU usage: 8.7%
+          --  mem usage: 82.6%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.37 GB
+network activity
+          --  bytes sent/received: 3535/5478
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.88/59.74GB
+
+----------------------------------------------------------------------
+2025-03-20 01:44:15
+hardware monitoring:
+		--  CPU usage: 13.9%
+          --  mem usage: 82.1%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.41 GB
+network activity
+          --  bytes sent/received: 3506/3453
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.88/59.74GB
+
+----------------------------------------------------------------------
+2025-03-20 01:44:25
+hardware monitoring:
+		--  CPU usage: 10.5%
+          --  mem usage: 81.2%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.48 GB
+network activity
+          --  bytes sent/received: 3931/4748
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.88/59.74GB
+
+----------------------------------------------------------------------
+2025-03-20 01:44:35
+hardware monitoring:
+		--  CPU usage: 11.3%
+          --  mem usage: 81.7%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.44 GB
+network activity
+          --  bytes sent/received: 3599/3599
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.88/59.74GB
+
+----------------------------------------------------------------------
+2025-03-20 01:44:45
+hardware monitoring:
+		--  CPU usage: 10.9%
+          --  mem usage: 82.0%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.42 GB
+network activity
+          --  bytes sent/received: 19260/112410
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.88/59.74GB
+
+----------------------------------------------------------------------
+2025-03-20 01:44:55
+hardware monitoring:
+		--  CPU usage: 11.3%
+          --  mem usage: 81.3%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.47 GB
+network activity
+          --  bytes sent/received: 5518/6048
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.88/59.74GB
+
+----------------------------------------------------------------------
+2025-03-20 01:45:05
+hardware monitoring:
+		--  CPU usage: 8.2%
+          --  mem usage: 81.4%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.46 GB
+network activity
+          --  bytes sent/received: 54/154
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.88/59.74GB
+
+----------------------------------------------------------------------
+2025-03-20 01:45:15
+hardware monitoring:
+		--  CPU usage: 7.4%
+          --  mem usage: 81.5%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.45 GB
+network activity
+          --  bytes sent/received: 4183/6046
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.88/59.74GB
+
+----------------------------------------------------------------------
+2025-03-20 01:45:25
+hardware monitoring:
+		--  CPU usage: 12.4%
+          --  mem usage: 81.7%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.44 GB
+network activity
+          --  bytes sent/received: 3342/3400
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.88/59.74GB
+
+----------------------------------------------------------------------
+2025-03-20 01:45:35
+hardware monitoring:
+		--  CPU usage: 4.7%
+          --  mem usage: 81.0%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.49 GB
+network activity
+          --  bytes sent/received: 164/208
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.88/59.74GB
+
+----------------------------------------------------------------------
+2025-03-20 01:45:45
+hardware monitoring:
+		--  CPU usage: 11.7%
+          --  mem usage: 81.3%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.47 GB
+network activity
+          --  bytes sent/received: 3597/3790
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.88/59.74GB
+
+----------------------------------------------------------------------
+2025-03-20 01:45:55
+hardware monitoring:
+		--  CPU usage: 7.7%
+          --  mem usage: 83.3%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.31 GB
+network activity
+          --  bytes sent/received: 3398/3433
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.88/59.74GB
+
+----------------------------------------------------------------------
+2025-03-20 01:46:05
+hardware monitoring:
+		--  CPU usage: 9.4%
+          --  mem usage: 83.2%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.32 GB
+network activity
+          --  bytes sent/received: 3450/3991
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.88/59.74GB
+
+----------------------------------------------------------------------
+2025-03-20 01:46:15
+hardware monitoring:
+		--  CPU usage: 5.1%
+          --  mem usage: 83.0%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.34 GB
+network activity
+          --  bytes sent/received: 108/668
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.88/59.74GB
+
+----------------------------------------------------------------------
+2025-03-20 01:46:25
+hardware monitoring:
+		--  CPU usage: 5.9%
+          --  mem usage: 83.1%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.33 GB
+network activity
+          --  bytes sent/received: 3342/3464
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.88/59.74GB
+
+----------------------------------------------------------------------
+2025-03-20 01:46:35
+hardware monitoring:
+		--  CPU usage: 10.2%
+          --  mem usage: 83.7%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.28 GB
+network activity
+          --  bytes sent/received: 3516/4919
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.88/59.74GB
+
+----------------------------------------------------------------------
+2025-03-20 01:46:45
+hardware monitoring:
+		--  CPU usage: 43.1%
+          --  mem usage: 86.5%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.06 GB
+network activity
+          --  bytes sent/received: 3512/4617
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.90/59.73GB
+
+----------------------------------------------------------------------
+2025-03-20 01:46:55
+hardware monitoring:
+		--  CPU usage: 18.1%
+          --  mem usage: 88.5%
+          --  total RAM: 7.87 GB
+          --  available RAM: 0.91 GB
+network activity
+          --  bytes sent/received: 3619/3954
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.90/59.72GB
+
+----------------------------------------------------------------------
+2025-03-20 01:47:05
+hardware monitoring:
+		--  CPU usage: 7.8%
+          --  mem usage: 87.2%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.01 GB
+network activity
+          --  bytes sent/received: 0/0
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.90/59.72GB
+
+----------------------------------------------------------------------
+2025-03-20 01:47:16
+hardware monitoring:
+		--  CPU usage: 3.5%
+          --  mem usage: 86.3%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.08 GB
+network activity
+          --  bytes sent/received: 3479/3750
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.90/59.72GB
+
+----------------------------------------------------------------------
+2025-03-20 01:47:26
+hardware monitoring:
+		--  CPU usage: 7.8%
+          --  mem usage: 87.4%
+          --  total RAM: 7.87 GB
+          --  available RAM: 0.99 GB
+network activity
+          --  bytes sent/received: 3193/4009
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.90/59.72GB
+
+----------------------------------------------------------------------
+2025-03-20 01:47:36
+hardware monitoring:
+		--  CPU usage: 4.0%
+          --  mem usage: 87.7%
+          --  total RAM: 7.87 GB
+          --  available RAM: 0.97 GB
+network activity
+          --  bytes sent/received: 147/93
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.90/59.72GB
+
+----------------------------------------------------------------------
+2025-03-20 01:47:46
+hardware monitoring:
+		--  CPU usage: 9.3%
+          --  mem usage: 83.4%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.31 GB
+network activity
+          --  bytes sent/received: 3342/3506
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.90/59.72GB
+
+----------------------------------------------------------------------
+2025-03-20 01:47:56
+hardware monitoring:
+		--  CPU usage: 6.6%
+          --  mem usage: 83.4%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.31 GB
+network activity
+          --  bytes sent/received: 162/496
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.90/59.72GB
+
+----------------------------------------------------------------------
+2025-03-20 01:48:06
+hardware monitoring:
+		--  CPU usage: 32.6%
+          --  mem usage: 84.1%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.25 GB
+network activity
+          --  bytes sent/received: 8715/6331
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.90/59.72GB
+
+----------------------------------------------------------------------
+2025-03-20 01:48:16
+hardware monitoring:
+		--  CPU usage: 8.2%
+          --  mem usage: 84.6%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.21 GB
+network activity
+          --  bytes sent/received: 3317/3424
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.90/59.72GB
+
+----------------------------------------------------------------------
+2025-03-20 01:48:26
+hardware monitoring:
+		--  CPU usage: 4.7%
+          --  mem usage: 83.9%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.26 GB
+network activity
+          --  bytes sent/received: 7346/5994
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.90/59.72GB
+
+----------------------------------------------------------------------
+2025-03-20 01:48:36
+hardware monitoring:
+		--  CPU usage: 5.4%
+          --  mem usage: 84.0%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.26 GB
+network activity
+          --  bytes sent/received: 3504/3690
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.90/59.72GB
+
+----------------------------------------------------------------------
+2025-03-20 01:48:46
+hardware monitoring:
+		--  CPU usage: 4.3%
+          --  mem usage: 83.5%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.29 GB
+network activity
+          --  bytes sent/received: 5320/5085
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.90/59.72GB
+
+----------------------------------------------------------------------
+2025-03-20 01:48:56
+hardware monitoring:
+		--  CPU usage: 3.9%
+          --  mem usage: 80.1%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.57 GB
+network activity
+          --  bytes sent/received: 3396/3542
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.90/59.72GB
+
+----------------------------------------------------------------------
+2025-03-20 01:49:06
+hardware monitoring:
+		--  CPU usage: 9.8%
+          --  mem usage: 80.0%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.57 GB
+network activity
+          --  bytes sent/received: 10691/10758
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.90/59.72GB
+
+----------------------------------------------------------------------
+2025-03-20 01:49:16
+hardware monitoring:
+		--  CPU usage: 11.3%
+          --  mem usage: 80.9%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.50 GB
+network activity
+          --  bytes sent/received: 3626/5775
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.90/59.72GB
+
+----------------------------------------------------------------------
+2025-03-20 01:49:26
+hardware monitoring:
+		--  CPU usage: 7.4%
+          --  mem usage: 82.4%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.39 GB
+network activity
+          --  bytes sent/received: 9024/6208
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.90/59.72GB
+
+----------------------------------------------------------------------
+2025-03-20 01:49:36
+hardware monitoring:
+		--  CPU usage: 41.4%
+          --  mem usage: 82.3%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.39 GB
+network activity
+          --  bytes sent/received: 1322/725
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.90/59.72GB
+
+----------------------------------------------------------------------
+2025-03-20 01:49:46
+hardware monitoring:
+		--  CPU usage: 3.1%
+          --  mem usage: 82.3%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.39 GB
+network activity
+          --  bytes sent/received: 7079/3724
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.90/59.72GB
+
+----------------------------------------------------------------------
+2025-03-20 01:49:56
+hardware monitoring:
+		--  CPU usage: 3.9%
+          --  mem usage: 82.3%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.39 GB
+network activity
+          --  bytes sent/received: 9895/8807
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.90/59.72GB
+
+----------------------------------------------------------------------
+2025-03-20 01:50:06
+hardware monitoring:
+		--  CPU usage: 7.0%
+          --  mem usage: 82.3%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.39 GB
+network activity
+          --  bytes sent/received: 8278/6294
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.90/59.72GB
+
+----------------------------------------------------------------------
+2025-03-20 01:50:16
+hardware monitoring:
+		--  CPU usage: 5.8%
+          --  mem usage: 81.1%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.48 GB
+network activity
+          --  bytes sent/received: 3479/3971
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.90/59.72GB
+
+----------------------------------------------------------------------
+2025-03-20 01:50:26
+hardware monitoring:
+		--  CPU usage: 3.1%
+          --  mem usage: 81.2%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.48 GB
+network activity
+          --  bytes sent/received: 9872/5876
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.90/59.72GB
+
+----------------------------------------------------------------------
+2025-03-20 01:50:36
+hardware monitoring:
+		--  CPU usage: 7.0%
+          --  mem usage: 81.5%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.46 GB
+network activity
+          --  bytes sent/received: 3729/3561
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.90/59.72GB
+
+----------------------------------------------------------------------
+2025-03-20 01:50:46
+hardware monitoring:
+		--  CPU usage: 5.4%
+          --  mem usage: 82.1%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.41 GB
+network activity
+          --  bytes sent/received: 5374/2755
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.90/59.72GB
+
+----------------------------------------------------------------------
+2025-03-20 01:50:56
+hardware monitoring:
+		--  CPU usage: 9.3%
+          --  mem usage: 82.2%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.40 GB
+network activity
+          --  bytes sent/received: 3406/3339
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.90/59.72GB
+
+----------------------------------------------------------------------
+2025-03-20 01:51:06
+hardware monitoring:
+		--  CPU usage: 4.3%
+          --  mem usage: 82.3%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.40 GB
+network activity
+          --  bytes sent/received: 9756/5763
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.90/59.72GB
+
+----------------------------------------------------------------------
+2025-03-20 01:51:17
+hardware monitoring:
+		--  CPU usage: 14.6%
+          --  mem usage: 82.2%
+          --  total RAM: 7.87 GB
+          --  available RAM: 1.40 GB
+network activity
+          --  bytes sent/received: 4297/20165
+disc space
+          --  total space: 117.62 GB
+          --  used/free space: 57.90/59.72GB
+
