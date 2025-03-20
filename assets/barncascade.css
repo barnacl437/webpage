@@ -18,7 +18,34 @@ meta {
     margin: auto;
     }
   }
-  
+
+  input, table {
+    color:aqua;
+    background-color: #040b31;
+    font-family: Intel One Mono;
+  }
+
+  input[type="text"]:active, input[type="text"]:hover, input[type="text"]:focus {
+    color:aqua;
+    background-color: #040b31;
+    font-family: Intel One Mono;
+    width: 40%;
+  }
+
+  button {
+    color: aquamarine;
+    background-color: rgba(0, 110, 255, 0.555);
+    font-family: Intel One Mono;
+  }
+
+  button:hover {
+    color:#020411;
+    background-color:rgba(0, 255, 255, 0.575);
+    font-weight: 600;
+    
+  }
+
+
   @media (max-width: 799px) {
     body {
       background-color: rgb(1, 8, 20);
