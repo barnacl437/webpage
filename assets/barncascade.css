@@ -12,7 +12,7 @@ meta {
     body {
     background-color: rgb(1, 8, 20);
     color: rgb(255, 255, 255);
-    font-family: 'PT Serif'; src: url('PTSerif-Regular.ttf');
+    font-family: 'PT Serif'; src: url('/assets/PTSerif-Regular.ttf');
     width:69%;
     text-align:justify;
     margin: auto;
