@@ -12,7 +12,7 @@ meta {
     body {
     background-color: rgb(1, 8, 20);
     color: rgb(255, 255, 255);
-    font-family: 'Intel One Mono', monospace;
+    font-family: 'PT Serif'; src: url('PTSerif-Regular.ttf');
     width:69%;
     text-align:justify;
     margin: auto;
@@ -130,10 +130,12 @@ code,
 samp,
 kbd {
   display: block; /* ensure block-level styling for consistent width */
-  padding: 16px;
+  padding: 4px;
+  color:white;
+  background-color: #040b31;
   margin-bottom: 16px;
   font-size: 14px;
-  line-height: 1.5;
+  line-height: 1;
   border: 1px solid #ccc;
   border-radius: 4px;
   overflow-x: auto; /* enable horizontal scrolling for long code lines */
@@ -142,13 +144,14 @@ kbd {
 
 /* style for inline code snippets */
 :not(pre) > code {
-  display: inline-block;
+  display: inline-block;  
   padding: 2px 4px;
   font-size: 12px;
-  background-color: #f5f5f5;
+  color:white;
+  background-color: #040b31;
   border: 1px solid #ccc;
   border-radius: 4px;
-  margin: 0 2px; /* adjust spacing as needed */
+  margin: 0 1px; /* adjust spacing as needed */
   font-family: "Intel One Mono", monospace;
 }
 /* end code block */
@@ -393,7 +396,7 @@ textarea {
   }
   
   @font-face {
-    font-family: 'Intel One Mono'; src: url('IntelOneMono-Regular.ttf');
+    font-family: 'Public Sans', serif; 
   }
   
   /* navigation bar colouring */
@@ -436,4 +439,8 @@ textarea {
   .feet {
     display: flex;
     background-color: #040b31;
+  }
+
+  .mono {
+    font-family: "Intel One Mono", monospace; src: url('IntelOneMono-Regular.ttf');
   }
