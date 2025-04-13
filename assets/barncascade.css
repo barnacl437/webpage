@@ -8,11 +8,19 @@ meta {
     css-version: 1.6b2;
   }
   
+  @font-face {
+    font-family: 'PT Serif';
+    src: url('/assets/PTSerif-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+  }
+  
   @media (min-width: 800px) {
     body {
     background-color: rgb(1, 8, 20);
     color: rgb(255, 255, 255);
-    font-family: 'PT Serif'; src: url('/assets/PTSerif-Regular.ttf');
+    font-family: 'PT Serif', serif;
     width:69%;
     text-align:justify;
     margin: auto;
@@ -59,7 +67,6 @@ meta {
   /* slider mod */
 
 input[type="range"] {
-  -webkit-appearance: none;
   border-radius: 5px;
   outline: none;
   -webkit-transition: .2s;
@@ -395,9 +402,7 @@ textarea {
     font-size: 2.1em; 
   }
   
-  @font-face {
-    font-family: 'Public Sans', serif; 
-  }
+
   
   /* navigation bar colouring */
    .navbar {
@@ -405,10 +410,12 @@ textarea {
   background-color:rgb(4, 6, 37);
   }
   
+  /*
   .bgcyan {
     
   }
-  
+  */
+
   .sheading {
     color:rgb(164, 247, 219)
   }
