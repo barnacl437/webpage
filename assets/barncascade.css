@@ -170,6 +170,7 @@ meta {
 
   img {
     margin: auto;
+    width: 75%;
     height: 50% !important; 
     display: block;
   }
