@@ -454,6 +454,12 @@ textarea {
     display: block;
   }
 
+  blockquote {
+    border-style: solid;
+    border-color: #0078d7;
+    border-width: 2px;
+  }
+
   .mono {
     font-family: "Intel One Mono", monospace; src: url('IntelOneMono-Regular.ttf');
   }
