@@ -457,7 +457,8 @@ textarea {
   blockquote {
     border-left-style: solid;
     border-left-color: #0078d7;
-    border-width: 2px;
+    border-width: 5px;
+    padding-left: 5px;
   }
 
   .mono {
