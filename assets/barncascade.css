@@ -68,6 +68,10 @@ meta {
       text-align:justify;
       margin: auto;
       }
+    
+    img {
+      width: fit-content;
+    }
     }
   
   /* unvisited link */
