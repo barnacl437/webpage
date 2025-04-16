@@ -173,6 +173,7 @@ meta {
     width: 95%;
     height: 50% !important; 
     display: block;
+    object-fit: contain;
   }
 
   blockquote {
