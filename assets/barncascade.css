@@ -270,7 +270,7 @@ kbd {
   padding: 2px;
   color:white;
   background-color: #040b31;
-  font-size: 16px;
+  font-size: 12px;
   line-height: 1;
   border: 1px solid #ccc;
   border-radius: 4px;
@@ -282,7 +282,7 @@ kbd {
 :not(pre) > code {
   display: inline-block;  
   padding: 1px 1px;
-  font-size: 16px;
+  font-size: 12px;
   color:white;
   background-color: #040b31;
   border: 1px solid #ccc;
