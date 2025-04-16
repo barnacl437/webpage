@@ -268,7 +268,6 @@ samp,
 kbd {
   display: block; /* ensure block-level styling for consistent width */
   padding: 2px;
-  white-space: normal;
   color:white;
   background-color: #040b31;
   font-size: 14px;
