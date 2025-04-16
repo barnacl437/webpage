@@ -171,6 +171,7 @@ meta {
   img {
     margin: auto;
     width:85%;
+    height: 80% !important; 
     display: block;
   }
 
