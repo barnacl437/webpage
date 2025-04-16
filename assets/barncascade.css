@@ -450,7 +450,7 @@ textarea {
 
   img {
     margin: auto;
-    width: 80%;
+    width:fit-content;
     display: block;
   }
 
