@@ -455,8 +455,8 @@ textarea {
   }
 
   blockquote {
-    border-style: solid;
-    border-color: #0078d7;
+    border-left-style: solid;
+    border-left-color: #0078d7;
     border-width: 2px;
   }
 
