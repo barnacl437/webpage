@@ -25,6 +25,7 @@ meta {
     text-align:justify;
     margin: auto;
     }
+
   }
 
   /* input styling */
@@ -70,7 +71,7 @@ meta {
       }
     
     img {
-      width: fit-content;
+      width: 99%;
     }
     }
   
@@ -169,7 +170,7 @@ meta {
 
   img {
     margin: auto;
-    width:fit-content;
+    width:85%;
     display: block;
   }
 
