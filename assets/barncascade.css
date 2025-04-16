@@ -448,6 +448,12 @@ textarea {
     background-color: #040b31;
   }
 
+  img {
+    margin: auto;
+    width: 80%;
+    display: block;
+  }
+
   .mono {
     font-family: "Intel One Mono", monospace; src: url('IntelOneMono-Regular.ttf');
   }
