@@ -265,29 +265,32 @@ pre,
 code,
 samp,
 kbd {
-  display: block; /* ensure block-level styling for consistent width */
+  display: block;
   padding: 2px;
-  color:white;
+  color: white;
   background-color: #040b31;
   font-size: 14px;
   line-height: 1;
   border: 1px solid #ccc;
   border-radius: 4px;
-  overflow-x: auto; /* enable horizontal scrolling for long code lines */
-  font-family: "Intel One Mono", monospace; /* use a monospace font */
+  overflow-x: auto;
+  font-family: "Intel One Mono", monospace;
+  margin: 0; /* Remove default margins */
+  white-space: pre; /* Preserve formatting without extra space */
 }
 
-/* style for inline code snippets */
+/* Inline code */
 :not(pre) > code {
-  display: inline-block;  
-  padding: 1px 1px;
+  display: inline-block;
+  padding: 1px 3px; /* Slightly more horizontal padding */
   font-size: 14px;
-  color:white;
+  color: white;
   background-color: #040b31;
   border: 1px solid #ccc;
   border-radius: 2px;
-  margin: 0 1px; /* adjust spacing as needed */
+  margin: 0 1px;
   font-family: "Intel One Mono", monospace;
+  line-height: 1.2; /* Better vertical alignment */
 }
 /* end code block */
 
