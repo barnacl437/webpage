@@ -170,7 +170,7 @@ meta {
 
   img {
     margin: auto;
-    width: 95%;
+    width: auto;
     height: 50% !important; 
     display: block;
     object-fit: contain;
