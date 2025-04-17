@@ -172,7 +172,7 @@ meta {
     align-items: center;
     margin: auto;
     width: auto;
-    height: 50% !important; 
+    height: 40% !important; 
     display: block;
     object-fit: contain;
   }
