@@ -169,6 +169,7 @@ meta {
   }
 
   img {
+    align-items: center;
     margin: auto;
     width: auto;
     height: 50% !important; 
