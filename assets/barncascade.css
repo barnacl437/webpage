@@ -14,6 +14,7 @@ meta {
     font-weight: normal;
     font-style: normal;
     font-display: swap;
+    font-size: 18px;
   }
   
   @media (min-width: 800px) {
@@ -70,9 +71,14 @@ meta {
       margin: auto;
       }
     
-    img {
-      width: 99%;
-    }
+   
+  img {
+    max-height: 50vh;       
+    width: auto;            
+    object-fit: contain;    
+    transition: max-height 0.3s ease;
+  }
+
     }
   
   /* unvisited link */
