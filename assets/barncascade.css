@@ -199,7 +199,7 @@ meta {
 body {
   cursor: url(/pictures/pointset/ptre/pointre.png), auto;
   cursor: url(/pictures/pointset/ptre/pointre-point.png), pointer;
-  cursor: url(/pictures/pointset/ptre/pointre-text.png), text;
+  /* cursor: url(/pictures/pointset/ptre/pointre-text.png), text; */
 }
 
 /* -------------------------  */
