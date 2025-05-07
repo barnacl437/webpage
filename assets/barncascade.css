@@ -8,6 +8,9 @@ meta {
     css-version: 1.6b2;
   }
   
+
+
+
   @font-face {
     font-family: 'PT Serif';
     src: url('/assets/PTSerif-Regular.ttf') format('truetype');
@@ -191,6 +194,11 @@ meta {
   .mono {
     font-family: "Intel One Mono", monospace; src: url('IntelOneMono-Regular.ttf');
   }
+
+
+body {
+  cursor: url(/pictures/pointre.png), auto;
+}
 
 /* -------------------------  */
 /* -------------------------  */
