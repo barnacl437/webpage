@@ -195,7 +195,7 @@ meta {
     font-family: "Intel One Mono", monospace; src: url('IntelOneMono-Regular.ttf');
   }
 
-
+/* pointer set */
 body {
   cursor: url(/pictures/pointset/ptre/pointre.png), auto;
   cursor: url(/pictures/pointset/ptre/pointre-point.png), pointer;
