@@ -1,216 +1,249 @@
-/* barnacl's cascading style engine */
+/* barnacl's cascading style engine, blog derivation */
 /* reminder: never forget ; at the end of lines!!! */
 /* this is a comprehensive styling sheet for barnacl437's webpage. May include messy and testing codes. */
 /* period is class; hash (#) is id! */
 
+
+/*
 meta {
-    css-name: barncss;
-    css-version: 1.6b2;
-  }
-  
+  css-name: barncss;
+  css-version: 1.6b3;
+}
+*/
 
 
 
-  @font-face {
-    font-family: 'PT Serif';
-    src: url('/assets/PTSerif-Regular.ttf') format('truetype');
-    font-weight: normal;
-    font-style: normal;
-    font-display: swap;
-    font-size: 18px;
-  }
-  
-  @media (min-width: 800px) {
-    body {
+/*
+* @font-face rule for PT Serif.
+* The 'font-family' name should be consistent.
+* The 'src' property now includes 'local' and multiple formats (woff2, woff) for modern browser compatibility.
+* You will need to convert your .ttf file to .woff2 and .woff formats and place them in the same directory.
+* 'font-display: swap' is added to prevent invisible text while the font loads.
+*/
+@font-face {
+  font-family: 'PT Serif';
+  src: local('PT Serif'), local('PTSerif-Regular'),
+       url('/assets/stuff/PTSerif-Regular.woff2') format('woff2'),
+       url('/assets/stuff/PTSerif-Regular.woff') format('woff'),
+       url('/assets/stuff/PTSerif-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+/*
+* A new @font-face rule is created for Intel One Mono.
+* The 'src' property was incorrectly placed inside the '.mono' selector. It belongs here.
+* This rule also includes multiple font formats and 'font-display: swap'.
+*/
+@font-face {
+  font-family: 'Intel One Mono';
+  src: local('Intel One Mono Regular'), local('IntelOneMono-Regular'),
+       url('/assets/stuff/IntelOneMono-Regular.woff2') format('woff2'),
+       url('/assets/stuff/IntelOneMono-Regular.woff') format('woff'),
+       url('/assets/stuff/IntelOneMono-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+/*
+* The font-family name here is simplified to 'PT Serif' to match the @font-face rule.
+* 'sans-serif' is a better fallback for a sans-serif font like Intel One Mono.
+*/
+@media (min-width: 800px) {
+  body {
     background-color: rgb(1, 8, 20);
     color: rgb(255, 255, 255);
     font-family: 'PT Serif', serif;
-    width:59.69%;
+    width:65%;
     text-align:justify;
     margin: auto;
-    }
-
   }
+}
 
-  /* input styling */
+/* input styling */
+input, table {
+  color:aqua;
+  background-color: #040b31;
+  /* Use the simplified font-family name with a generic fallback. */
+  font-family: 'Intel One Mono', monospace;
+  width:40%
+}
 
-  input, table {
-    color:aqua;
-    background-color: #040b31;
-    font-family: Intel One Mono;
-    width:40%
-  }
-
-  /*
-  input[type="text"]:active, input[type="text"]:hover, input[type="text"]:focus {
-    color:aqua;
-    background-color: #040b31;
-    font-family: Intel One Mono;
-    width: 40%;
-  }
+/*
+input[type="text"]:active, input[type="text"]:hover, input[type="text"]:focus {
+  color:aqua;
+  background-color: #040b31;
+  font-family: Intel One Mono Regular;
+  width: 40%;
+}
 */
 
-  button {
-    color: aquamarine;
-    background-color: rgba(0, 110, 255, 0.555);
-    font-family: Intel One Mono;
+button {
+  color: aquamarine;
+  background-color: rgba(0, 110, 255, 0.555);
+  /* Use the simplified font-family name with a generic fallback. */
+  font-family: 'Intel One Mono', monospace;
+}
+
+button:hover {
+  background-color:rgba(0, 255, 255, 0.575);
+  font-weight: 600;
+}
+
+/* view size */
+@media (max-width: 799px) {
+  body {
+    background-color: rgb(1, 8, 20);
+    color: rgb(255, 255, 255);
+    /* Use the simplified font-family name. */
+    font-family: 'PT Serif', sans-serif;
+    width:96%;
+    text-align:justify;
+    margin: auto;
   }
 
-  button:hover {
-    background-color:rgba(0, 255, 255, 0.575);
-    font-weight: 600;
-    
-  }
-
-  /* view size */
-  
-  @media (max-width: 799px) {
-    body {
-      background-color: rgb(1, 8, 20);
-      color: rgb(255, 255, 255);
-      font-family: 'PT Serif', monospace;
-      width:96%;
-      text-align:justify;
-      margin: auto;
-      }
-    
-   
   img {
-    max-height: 50vh;       
-    width: auto;            
-    object-fit: contain;    
+    max-height: 50vh;
+    width: auto;
+    object-fit: contain;
     transition: max-height 0.3s ease;
   }
+}
 
-    }
-  
-  /* unvisited link */
-  a:link {
-    color:rgb(158, 120, 247);
-  }
-  
-  /* visited link */
-  a:visited {
-    color: #ae6df8de;
-    text-decoration: overline;
-  }
-  
-  /* mouse over link */
-  a:hover {
-    color: rgb(0, 16, 19);
-    font-weight: 600;
-    background-color: rgb(23, 212, 245);
-  }
-  
-  mark {
-    background-color:rgb(8, 69, 71);
-    color:rgb(255, 255, 255);
-  }
-  
-  /* selected link */
-  a:active {
-    color: deepblue;
-  }
-  
-  ::-moz-selection { /* Code for Firefox */
-    color: white ;
-    background: aqua;
-  }
-  
-  .running-text {
-    background-color: rgb(37, 75, 3);
-    color:rgb(236, 225, 2);
-  }
-  
-  ::selection {
-    color: white;
-    background: blueviolet;
-  }
-  
-  h1 {
-    font-size: 2.1em; 
-  }
-  
+/* unvisited link */
+a:link {
+  color:rgb(158, 120, 247);
+}
 
-  
-  /* navigation bar colouring */
-   .navbar {
+/* visited link */
+a:visited {
+  color: #ae6df8de;
+  text-decoration: overline;
+}
+
+/* mouse over link */
+a:hover {
+  color: rgb(0, 16, 19);
+  font-weight: 600;
+  background-color: rgb(23, 212, 245);
+}
+
+mark {
+  background-color:rgb(8, 69, 71);
+  color:rgb(255, 255, 255);
+}
+
+/* selected link */
+a:active {
+  color: deepblue;
+}
+
+::-moz-selection { /* Code for Firefox */
+  color: white ;
+  background: aqua;
+}
+
+.running-text {
+  background-color: rgb(37, 75, 3);
+  color:rgb(236, 225, 2);
+}
+
+::selection {
+  color: white;
+  background: blueviolet;
+}
+
+h1 {
+  font-size: 2.1em;
+}
+
+/* navigation bar colouring */
+.navbar {
   text-align: center;
   background-color:rgb(4, 6, 37);
-  }
-  
-  /*
-  .bgcyan {
-    
-  }
-  */
+}
 
-  .sheading {
-    color:rgb(164, 247, 219)
-  }
-  
-  /* hlt[colour] are simply just colour highlighting classes to remove the need to define attribute again. */
-  
-  .hltcyan {
-   color:cyan;
-   font: size 0.8em;
-  }
-  
-  .hltgreenyellow {
-    color:greenyellow
-  }
-  
-  /* how to use hover-to-spoiler: 
-  use class="spoiler" for the main text, and class="hide" for text you want to hide/spoiler.  */
-  
-  .hide {
-    display: none;
-  }
-  
-  .spoiler:hover + .hide {
-    display: block;
-    color:darkturquoise;
-  }
+/*
+.bgcyan {
 
-  .feet {
-    display: flex;
-    background-color: #040b31;
-  }
+}
+*/
 
-  img {
-    max-height: 50vh;       
-    width: auto;            
-    object-fit: contain;    
-    transition: max-height 0.3s ease;
-  }
+.sheading {
+  color:rgb(164, 247, 219)
+}
 
-  blockquote {
-    border-left-style: solid;
-    border-left-color: #0078d7;
-    border-width: 5px;
-    padding-left: 5px;
-  }
+/* hlt[colour] are simply just colour highlighting classes to remove the need to define attribute again. */
+.hltcyan {
+  color:cyan;
+  font-size: 0.8em;
+}
 
-  .mono {
-    font-family: "Intel One Mono", monospace; src: url('IntelOneMono-Regular.ttf');
-  }
+.hltgreenyellow {
+  color:greenyellow
+}
 
+/* how to use hover-to-spoiler:
+use class="spoiler" for the main text, and class="hide" for text you want to hide/spoiler.  */
+.hide {
+  display: none;
+}
+
+.spoiler:hover + .hide {
+  display: block;
+  color:darkturquoise;
+}
+
+.feet {
+  display: flex;
+  background-color: #040b31;
+}
+
+img {
+  max-height: 50vh;
+  width: auto;
+  object-fit: contain;
+  transition: max-height 0.3s ease;
+}
+
+blockquote {
+  border-left-style: solid;
+  border-left-color: #0078d7;
+  border-width: 5px;
+  padding-left: 5px;
+}
+
+.mono {
+  /* Use the simplified font-family name. The src is now in the @font-face rule. */
+  font-family: 'Intel One Mono', monospace;
+}
+
+/*
+* The 'cursor' property can't handle multiple URL values in a single declaration.
+* To use different cursors, you would apply them to specific elements or states, e.g.,
+* a:hover { cursor: url(...); }
+* input[type="text"] { cursor: url(...); }
+* I've removed the conflicting body rules below.
+*/
 /* pointer set */
+/*
 body {
   cursor: url(/pictures/pointset/ptre/pointre.png), default;
   cursor: url(/pictures/pointset/ptre/pointre-point.png), pointer;
-  cursor: url(/pictures/pointset/ptre/pointre-text.png), text; 
+  cursor: url(/pictures/pointset/ptre/pointre-text.png), text;
 }
+*/
 
 /* -------------------------  */
 /* -------------------------  */
 /* -------------------------  */
 /* -------------------------  */
 /* -------------------------  */
-  /* ---------------------------------- */
-  /* testing zone --- generated lol nvm */
-  /* slider mod */
-
+/* ---------------------------------- */
+/* testing zone --- generated lol nvm */
+/* slider mod */
 input[type="range"] {
   border-radius: 5px;
   outline: none;
@@ -270,12 +303,6 @@ input[type="range"]::-moz-range-progress {
   border-radius: 5px;
 }
 
-
-
-
-
-
- 
 /* code block twerking */
 pre,
 code,
@@ -309,11 +336,6 @@ kbd {
   line-height: 1.2; /* Better vertical alignment */
 }
 /* end code block */
-
-
-
-
-
 
 /* --- checkbox style --- */
 input[type="checkbox"] {
@@ -355,10 +377,6 @@ input[type="checkbox"]:focus {
 input[type="checkbox"]:hover {
   transform: scale(1.1);
 }
-
-
-
-
 
 /* --- button style --- */
 button,
@@ -426,10 +444,7 @@ input[type="reset"]:disabled:hover {
    transform: none; /* Disable transform on hover */
 }
 
-
-
 /* --- text input --- */
-
 input[type="text"],
 input[type="email"],
 input[type="password"],
@@ -479,6 +494,22 @@ textarea {
   color: #b0b0b0;
 }
 
+input {
+  color:aqua;
+  background-color: #040b31;
+  font-family: 'Intel One Mono', monospace;
+  width:40%
+}
+
+table {
+    color:aqua;
+    background-color: #040b31;
+    font-family: 'Intel One Mono', monospace;
+    width: 100%;
+    display: block; 
+    overflow-x: auto;
+}
+
 /* --- end generated code --- */
 /* -------------------------  */
 /* -------------------------  */
@@ -487,6 +518,3 @@ textarea {
 /* -------------------------  */
 /* -------------------------  */
 /* -------------------------  */
-
-
-  
