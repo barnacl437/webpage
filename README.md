@@ -21,11 +21,11 @@ deployment list will not be shown. good luck ransacking it. my codes awa commit 
 ## Usage
 If you are not literated in basic HTML coding, you can, yes, copy the code then do anything you want. Find some weird things in there? Nevermind. Otherwise just reading. This is my personal webpage. Or use it as reading a personal blog. idk do wtf u want.
 
-## License
+## Licence
 released under [WTFPL](https://en.wikipedia.org/wiki/WTFPL). Yes, you may not bother wanting to read all of that long in GNU GPL. I don't criticise GNU, but with my stuff that is/are not going to be serious, I choose WTFPL for minimal further trouble.
 
 ## Other trivias and information
 This website uses [PT Serif font](https://en.wikipedia.org/wiki/PT_Fonts) and [Intel One Mono](https://github.com/intel/intel-one-mono), an open-source font by Intel intended for developers to use on their IDE editor with ease to read and convenient. Thus I've chosen it to display on my site. ~~However, I can't make this font readable on any devices beyond my personal computer. Gotta work on this later.~~ (I fixed it, and now it works fine. No worries mate.)
-Intel One Mono is released under OFL (Open Font License) version 1.1.
+Intel One Mono is released under OFL (Open Font Licence) version 1.1.
 
 kay thatz all have fun.
