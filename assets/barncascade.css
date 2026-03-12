@@ -23,9 +23,7 @@ meta {
 @font-face {
   font-family: 'PT Serif';
   src: local('PT Serif'), local('PTSerif-Regular'),
-       url('/assets/stuff/PTSerif-Regular.woff2') format('woff2'),
-       url('/assets/stuff/PTSerif-Regular.woff') format('woff'),
-       url('/assets/stuff/PTSerif-Regular.ttf') format('truetype');
+       url('/assets/PTSerif-Regular.ttf') format('truetype');
   font-weight: 400;
   font-style: normal;
   font-display: swap;
@@ -39,9 +37,7 @@ meta {
 @font-face {
   font-family: 'Intel One Mono';
   src: local('Intel One Mono Regular'), local('IntelOneMono-Regular'),
-       url('/assets/stuff/IntelOneMono-Regular.woff2') format('woff2'),
-       url('/assets/stuff/IntelOneMono-Regular.woff') format('woff'),
-       url('/assets/stuff/IntelOneMono-Regular.ttf') format('truetype');
+       url('/assets/IntelOneMono-Regular.ttf') format('truetype');
   font-weight: 400;
   font-style: normal;
   font-display: swap;
